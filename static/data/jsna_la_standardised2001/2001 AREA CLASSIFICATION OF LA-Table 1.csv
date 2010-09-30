@@ -1,0 +1,370 @@
+DATASET_TITLE,National Statistics 2001 Area Classification of Local Authorities,,,,,,FROM,Jun-2001,Jun-2001,Jun-2001,Jun-2001,Jun-2001,Jun-2001
+AREA_TYPE,Local Authority,,,,,,TO,Jun-2001,Jun-2001,Jun-2001,Jun-2001,Jun-2001,Jun-2001
+GEO_HIERARCHY,NeSS Geography Hierarchy,,,,,,HEADING,Supergroup Name,Supergroup Code,Group Name,Group Code,Subgroup Name,Subgroup Code
+,,,,,,,MEASUREMENT_UNIT,Classification,Classification,Classification,Classification,Classification,Classification
+,,,,,,,STATISTICAL_UNIT,Areas,Areas,Areas,Areas,Areas,Areas
+GOR_CODE,GOR_NAME,CTY_CODE,CTY_NAME,LA_CODE,LA_NAME,AREA_METADATA,,DATA_VALUE,DATA_VALUE,DATA_VALUE,DATA_VALUE,DATA_VALUE,DATA_VALUE
+A,North East,,,00CH,Gateshead,,,Mining and Manufacturing,7,Industrial Hinterlands,7.11,Industrial Hinterlands - A,7.11.20
+A,North East,,,00CJ,Newcastle upon Tyne,,,Cities and Services,1,Regional Centres,1.1,Regional Centres - A,1.1.1
+A,North East,,,00CK,North Tyneside,,,Mining and Manufacturing,7,Industrial Hinterlands,7.11,Industrial Hinterlands - B,7.11.21
+A,North East,,,00CL,South Tyneside,,,Mining and Manufacturing,7,Industrial Hinterlands,7.11,Industrial Hinterlands - A,7.11.20
+A,North East,,,00CM,Sunderland,,,Mining and Manufacturing,7,Industrial Hinterlands,7.11,Industrial Hinterlands - A,7.11.20
+A,North East,,,00EB,Hartlepool,,,Mining and Manufacturing,7,Industrial Hinterlands,7.11,Industrial Hinterlands - A,7.11.20
+A,North East,,,00EC,Middlesbrough,,,Mining and Manufacturing,7,Industrial Hinterlands,7.11,Industrial Hinterlands - A,7.11.20
+A,North East,,,00EE,Redcar and Cleveland,,,Mining and Manufacturing,7,Industrial Hinterlands,7.11,Industrial Hinterlands - A,7.11.20
+A,North East,,,00EF,Stockton-on-Tees,,,Mining and Manufacturing,7,Manufacturing Towns,7.12,Manufacturing Towns - A,7.12.22
+A,North East,,,00EH,Darlington,,,Mining and Manufacturing,7,Industrial Hinterlands,7.11,Industrial Hinterlands - A,7.11.20
+A,North East,20,Durham,20UB,Chester-le-Street,,,Mining and Manufacturing,7,Manufacturing Towns,7.12,Manufacturing Towns - A,7.12.22
+A,North East,20,Durham,20UD,Derwentside,,,Mining and Manufacturing,7,Industrial Hinterlands,7.11,Industrial Hinterlands - A,7.11.20
+A,North East,20,Durham,20UE,Durham,,,Prospering UK,5,Prospering Smaller Towns,5.7,Prospering Smaller Towns - A,5.7.12
+A,North East,20,Durham,20UF,Easington,,,Mining and Manufacturing,7,Industrial Hinterlands,7.11,Industrial Hinterlands - A,7.11.20
+A,North East,20,Durham,20UG,Sedgefield,,,Mining and Manufacturing,7,Industrial Hinterlands,7.11,Industrial Hinterlands - A,7.11.20
+A,North East,20,Durham,20UH,Teesdale,,,Coastal and Countryside,6,Coastal and Countryside.,6.1,Coastal and Countryside - A,6.10.17
+A,North East,20,Durham,20UJ,Wear Valley,,,Mining and Manufacturing,7,Industrial Hinterlands,7.11,Industrial Hinterlands - A,7.11.20
+A,North East,35,Northumberland,35UB,Alnwick,,,Coastal and Countryside,6,Coastal and Countryside.,6.1,Coastal and Countryside - A,6.10.17
+A,North East,35,Northumberland,35UC,Berwick-upon-Tweed,,,Coastal and Countryside,6,Coastal and Countryside.,6.1,Coastal and Countryside - A,6.10.17
+A,North East,35,Northumberland,35UD,Blyth Valley,,,Mining and Manufacturing,7,Manufacturing Towns,7.12,Manufacturing Towns - A,7.12.22
+A,North East,35,Northumberland,35UE,Castle Morpeth,,,Prospering UK,5,Prospering Smaller Towns,5.7,Prospering Smaller Towns - B,5.7.13
+A,North East,35,Northumberland,35UF,Tynedale,,,Prospering UK,5,Prospering Smaller Towns,5.7,Prospering Smaller Towns - B,5.7.13
+A,North East,35,Northumberland,35UG,Wansbeck,,,Mining and Manufacturing,7,Industrial Hinterlands,7.11,Industrial Hinterlands - A,7.11.20
+B,North West,,,00BL,Bolton,,,Cities and Services,1,Centres with Industry,1.2,Centres with Industry - A,1.2.2
+B,North West,,,00BM,Bury,,,Prospering UK,5,Prospering Smaller Towns,5.7,Prospering Smaller Towns - A,5.7.12
+B,North West,,,00BN,Manchester,,,Cities and Services,1,Centres with Industry,1.2,Centres with Industry - B,1.2.3
+B,North West,,,00BP,Oldham,,,Cities and Services,1,Centres with Industry,1.2,Centres with Industry - A,1.2.2
+B,North West,,,00BQ,Rochdale,,,Cities and Services,1,Centres with Industry,1.2,Centres with Industry - A,1.2.2
+B,North West,,,00BR,Salford,,,Cities and Services,1,Regional Centres,1.1,Regional Centres - A,1.1.1
+B,North West,,,00BS,Stockport,,,Prospering UK,5,Prospering Smaller Towns,5.7,Prospering Smaller Towns - A,5.7.12
+B,North West,,,00BT,Tameside,,,Mining and Manufacturing,7,Industrial Hinterlands,7.11,Industrial Hinterlands - A,7.11.20
+B,North West,,,00BU,Trafford,,,Prospering UK,5,Prospering Smaller Towns,5.7,Prospering Smaller Towns - A,5.7.12
+B,North West,,,00BW,Wigan,,,Mining and Manufacturing,7,Manufacturing Towns,7.12,Manufacturing Towns - A,7.12.22
+B,North West,,,00BX,Knowsley,,,Mining and Manufacturing,7,Industrial Hinterlands,7.11,Industrial Hinterlands - A,7.11.20
+B,North West,,,00BY,Liverpool,,,Cities and Services,1,Regional Centres,1.1,Regional Centres - A,1.1.1
+B,North West,,,00BZ,St. Helens,,,Mining and Manufacturing,7,Industrial Hinterlands,7.11,Industrial Hinterlands - A,7.11.20
+B,North West,,,00CA,Sefton,,,Mining and Manufacturing,7,Industrial Hinterlands,7.11,Industrial Hinterlands - A,7.11.20
+B,North West,,,00CB,Wirral,,,Mining and Manufacturing,7,Industrial Hinterlands,7.11,Industrial Hinterlands - A,7.11.20
+B,North West,,,00ET,Halton,,,Mining and Manufacturing,7,Industrial Hinterlands,7.11,Industrial Hinterlands - A,7.11.20
+B,North West,,,00EU,Warrington,,,Prospering UK,5,Prospering Smaller Towns,5.7,Prospering Smaller Towns - C,5.7.14
+B,North West,,,00EX,Blackburn with Darwen,,,Cities and Services,1,Centres with Industry,1.2,Centres with Industry - A,1.2.2
+B,North West,,,00EY,Blackpool,,,Coastal and Countryside,6,Coastal and Countryside.,6.1,Coastal and Countryside - B,6.10.18
+B,North West,13,Cheshire,13UB,Chester,,,Prospering UK,5,Prospering Smaller Towns,5.7,Prospering Smaller Towns - A,5.7.12
+B,North West,13,Cheshire,13UC,Congleton,,,Prospering UK,5,Prospering Smaller Towns,5.7,Prospering Smaller Towns - C,5.7.14
+B,North West,13,Cheshire,13UD,Crewe and Nantwich,,,Prospering UK,5,Prospering Smaller Towns,5.7,Prospering Smaller Towns - C,5.7.14
+B,North West,13,Cheshire,13UE,Ellesmere Port & Neston,,,Mining and Manufacturing,7,Manufacturing Towns,7.12,Manufacturing Towns - A,7.12.22
+B,North West,13,Cheshire,13UG,Macclesfield,,,Prospering UK,5,Prospering Smaller Towns,5.7,Prospering Smaller Towns - B,5.7.13
+B,North West,13,Cheshire,13UH,Vale Royal,,,Prospering UK,5,Prospering Smaller Towns,5.7,Prospering Smaller Towns - C,5.7.14
+B,North West,16,Cumbria,16UB,Allerdale,,,Coastal and Countryside,6,Coastal and Countryside.,6.1,Coastal and Countryside - B,6.10.18
+B,North West,16,Cumbria,16UC,Barrow-in-Furness,,,Mining and Manufacturing,7,Industrial Hinterlands,7.11,Industrial Hinterlands - A,7.11.20
+B,North West,16,Cumbria,16UD,Carlisle,,,Coastal and Countryside,6,Coastal and Countryside.,6.1,Coastal and Countryside - B,6.10.18
+B,North West,16,Cumbria,16UE,Copeland,,,Mining and Manufacturing,7,Industrial Hinterlands,7.11,Industrial Hinterlands - A,7.11.20
+B,North West,16,Cumbria,16UF,Eden,,,Coastal and Countryside,6,Coastal and Countryside.,6.1,Coastal and Countryside - A,6.10.17
+B,North West,16,Cumbria,16UG,South Lakeland,,,Coastal and Countryside,6,Coastal and Countryside.,6.1,Coastal and Countryside - A,6.10.17
+B,North West,30,Lancashire,30UD,Burnley,,,Cities and Services,1,Centres with Industry,1.2,Centres with Industry - A,1.2.2
+B,North West,30,Lancashire,30UE,Chorley,,,Prospering UK,5,Prospering Smaller Towns,5.7,Prospering Smaller Towns - C,5.7.14
+B,North West,30,Lancashire,30UF,Fylde,,,Coastal and Countryside,6,Coastal and Countryside.,6.1,Coastal and Countryside - A,6.10.17
+B,North West,30,Lancashire,30UG,Hyndburn,,,Cities and Services,1,Centres with Industry,1.2,Centres with Industry - A,1.2.2
+B,North West,30,Lancashire,30UH,Lancaster,,,Cities and Services,1,Regional Centres,1.1,Regional Centres - A,1.1.1
+B,North West,30,Lancashire,30UJ,Pendle,,,Cities and Services,1,Centres with Industry,1.2,Centres with Industry - A,1.2.2
+B,North West,30,Lancashire,30UK,Preston,,,Cities and Services,1,Centres with Industry,1.2,Centres with Industry - A,1.2.2
+B,North West,30,Lancashire,30UL,Ribble Valley,,,Prospering UK,5,Prospering Smaller Towns,5.7,Prospering Smaller Towns - B,5.7.13
+B,North West,30,Lancashire,30UM,Rossendale,,,Mining and Manufacturing,7,Manufacturing Towns,7.12,Manufacturing Towns - A,7.12.22
+B,North West,30,Lancashire,30UN,South Ribble,,,Prospering UK,5,Prospering Smaller Towns,5.7,Prospering Smaller Towns - C,5.7.14
+B,North West,30,Lancashire,30UP,West Lancashire,,,Prospering UK,5,Prospering Smaller Towns,5.7,Prospering Smaller Towns - A,5.7.12
+B,North West,30,Lancashire,30UQ,Wyre,,,Coastal and Countryside,6,Coastal and Countryside.,6.1,Coastal and Countryside - A,6.10.17
+D,Yorkshire and The Humber,,,00CC,Barnsley,,,Mining and Manufacturing,7,Manufacturing Towns,7.12,Manufacturing Towns - A,7.12.22
+D,Yorkshire and The Humber,,,00CE,Doncaster,,,Mining and Manufacturing,7,Manufacturing Towns,7.12,Manufacturing Towns - A,7.12.22
+D,Yorkshire and The Humber,,,00CF,Rotherham,,,Mining and Manufacturing,7,Manufacturing Towns,7.12,Manufacturing Towns - A,7.12.22
+D,Yorkshire and The Humber,,,00CG,Sheffield,,,Cities and Services,1,Regional Centres,1.1,Regional Centres - A,1.1.1
+D,Yorkshire and The Humber,,,00CX,Bradford,,,Cities and Services,1,Centres with Industry,1.2,Centres with Industry - A,1.2.2
+D,Yorkshire and The Humber,,,00CY,Calderdale,,,Cities and Services,1,Centres with Industry,1.2,Centres with Industry - A,1.2.2
+D,Yorkshire and The Humber,,,00CZ,Kirklees,,,Cities and Services,1,Centres with Industry,1.2,Centres with Industry - A,1.2.2
+D,Yorkshire and The Humber,,,00DA,Leeds,,,Cities and Services,1,Regional Centres,1.1,Regional Centres - A,1.1.1
+D,Yorkshire and The Humber,,,00DB,Wakefield,,,Mining and Manufacturing,7,Manufacturing Towns,7.12,Manufacturing Towns - A,7.12.22
+D,Yorkshire and The Humber,,,00FA,"Kingston upon Hull, City of",,,Mining and Manufacturing,7,Industrial Hinterlands,7.11,Industrial Hinterlands - A,7.11.20
+D,Yorkshire and The Humber,,,00FB,East Riding of Yorkshire,,,Prospering UK,5,Prospering Smaller Towns,5.7,Prospering Smaller Towns - B,5.7.13
+D,Yorkshire and The Humber,,,00FC,North East Lincolnshire,,,Mining and Manufacturing,7,Manufacturing Towns,7.12,Manufacturing Towns - A,7.12.22
+D,Yorkshire and The Humber,,,00FD,North Lincolnshire,,,Mining and Manufacturing,7,Manufacturing Towns,7.12,Manufacturing Towns - A,7.12.22
+D,Yorkshire and The Humber,,,00FF,York,,,Prospering UK,5,Prospering Smaller Towns,5.7,Prospering Smaller Towns - A,5.7.12
+D,Yorkshire and The Humber,36,North Yorkshire,36UB,Craven,,,Coastal and Countryside,6,Coastal and Countryside.,6.1,Coastal and Countryside - A,6.10.17
+D,Yorkshire and The Humber,36,North Yorkshire,36UC,Hambleton,,,Prospering UK,5,Prospering Smaller Towns,5.7,Prospering Smaller Towns - B,5.7.13
+D,Yorkshire and The Humber,36,North Yorkshire,36UD,Harrogate,,,Prospering UK,5,Prospering Smaller Towns,5.7,Prospering Smaller Towns - B,5.7.13
+D,Yorkshire and The Humber,36,North Yorkshire,36UE,Richmondshire,,,Prospering UK,5,Prospering Smaller Towns,5.7,Prospering Smaller Towns - B,5.7.13
+D,Yorkshire and The Humber,36,North Yorkshire,36UF,Ryedale,,,Coastal and Countryside,6,Coastal and Countryside.,6.1,Coastal and Countryside - A,6.10.17
+D,Yorkshire and The Humber,36,North Yorkshire,36UG,Scarborough,,,Coastal and Countryside,6,Coastal and Countryside.,6.1,Coastal and Countryside - B,6.10.18
+D,Yorkshire and The Humber,36,North Yorkshire,36UH,Selby,,,Prospering UK,5,Prospering Smaller Towns,5.7,Prospering Smaller Towns - C,5.7.14
+E,East Midlands,,,00FK,Derby,,,Cities and Services,1,Centres with Industry,1.2,Centres with Industry - A,1.2.2
+E,East Midlands,,,00FN,Leicester,,,Cities and Services,1,Centres with Industry,1.2,Centres with Industry - B,1.2.3
+E,East Midlands,,,00FP,Rutland,,,Prospering UK,5,Prospering Smaller Towns,5.7,Prospering Smaller Towns - B,5.7.13
+E,East Midlands,,,00FY,Nottingham,,,Cities and Services,1,Centres with Industry,1.2,Centres with Industry - B,1.2.3
+E,East Midlands,17,Derbyshire,17UB,Amber Valley,,,Mining and Manufacturing,7,Manufacturing Towns,7.12,Manufacturing Towns - A,7.12.22
+E,East Midlands,17,Derbyshire,17UC,Bolsover,,,Mining and Manufacturing,7,Manufacturing Towns,7.12,Manufacturing Towns - A,7.12.22
+E,East Midlands,17,Derbyshire,17UD,Chesterfield,,,Mining and Manufacturing,7,Manufacturing Towns,7.12,Manufacturing Towns - A,7.12.22
+E,East Midlands,17,Derbyshire,17UF,Derbyshire Dales,,,Prospering UK,5,Prospering Smaller Towns,5.7,Prospering Smaller Towns - B,5.7.13
+E,East Midlands,17,Derbyshire,17UG,Erewash,,,Mining and Manufacturing,7,Manufacturing Towns,7.12,Manufacturing Towns - A,7.12.22
+E,East Midlands,17,Derbyshire,17UH,High Peak,,,Prospering UK,5,Prospering Smaller Towns,5.7,Prospering Smaller Towns - C,5.7.14
+E,East Midlands,17,Derbyshire,17UJ,North East Derbyshire,,,Mining and Manufacturing,7,Manufacturing Towns,7.12,Manufacturing Towns - A,7.12.22
+E,East Midlands,17,Derbyshire,17UK,South Derbyshire,,,Prospering UK,5,Prospering Smaller Towns,5.7,Prospering Smaller Towns - C,5.7.14
+E,East Midlands,31,Leicestershire,31UB,Blaby,,,Prospering UK,5,Prospering Smaller Towns,5.7,Prospering Smaller Towns - C,5.7.14
+E,East Midlands,31,Leicestershire,31UC,Charnwood,,,Prospering UK,5,Prospering Smaller Towns,5.7,Prospering Smaller Towns - A,5.7.12
+E,East Midlands,31,Leicestershire,31UD,Harborough,,,Prospering UK,5,Prospering Smaller Towns,5.7,Prospering Smaller Towns - C,5.7.14
+E,East Midlands,31,Leicestershire,31UE,Hinckley and Bosworth,,,Prospering UK,5,Prospering Smaller Towns,5.7,Prospering Smaller Towns - C,5.7.14
+E,East Midlands,31,Leicestershire,31UG,Melton,,,Prospering UK,5,Prospering Smaller Towns,5.7,Prospering Smaller Towns - C,5.7.14
+E,East Midlands,31,Leicestershire,31UH,North West Leicestershire,,,Prospering UK,5,Prospering Smaller Towns,5.7,Prospering Smaller Towns - C,5.7.14
+E,East Midlands,31,Leicestershire,31UJ,Oadby and Wigston,,,Prospering UK,5,Prospering Smaller Towns,5.7,Prospering Smaller Towns - A,5.7.12
+E,East Midlands,32,Lincolnshire,32UB,Boston,,,Prospering UK,5,Prospering Smaller Towns,5.7,Prospering Smaller Towns - B,5.7.13
+E,East Midlands,32,Lincolnshire,32UC,East Lindsey,,,Coastal and Countryside,6,Coastal and Countryside.,6.1,Coastal and Countryside - A,6.10.17
+E,East Midlands,32,Lincolnshire,32UD,Lincoln,,,Cities and Services,1,Regional Centres,1.1,Regional Centres - A,1.1.1
+E,East Midlands,32,Lincolnshire,32UE,North Kesteven,,,Prospering UK,5,Prospering Smaller Towns,5.7,Prospering Smaller Towns - B,5.7.13
+E,East Midlands,32,Lincolnshire,32UF,South Holland,,,Prospering UK,5,Prospering Smaller Towns,5.7,Prospering Smaller Towns - B,5.7.13
+E,East Midlands,32,Lincolnshire,32UG,South Kesteven,,,Prospering UK,5,Prospering Smaller Towns,5.7,Prospering Smaller Towns - C,5.7.14
+E,East Midlands,32,Lincolnshire,32UH,West Lindsey,,,Prospering UK,5,Prospering Smaller Towns,5.7,Prospering Smaller Towns - B,5.7.13
+E,East Midlands,34,Northamptonshire,34UB,Corby,,,Mining and Manufacturing,7,Manufacturing Towns,7.12,Manufacturing Towns - A,7.12.22
+E,East Midlands,34,Northamptonshire,34UC,Daventry,,,Prospering UK,5,Prospering Smaller Towns,5.7,Prospering Smaller Towns - C,5.7.14
+E,East Midlands,34,Northamptonshire,34UD,East Northamptonshire,,,Prospering UK,5,Prospering Smaller Towns,5.7,Prospering Smaller Towns - C,5.7.14
+E,East Midlands,34,Northamptonshire,34UE,Kettering,,,Prospering UK,5,Prospering Smaller Towns,5.7,Prospering Smaller Towns - C,5.7.14
+E,East Midlands,34,Northamptonshire,34UF,Northampton,,,Prospering UK,5,New and Growing Towns,5.8,New and Growing Towns - A,5.8.15
+E,East Midlands,34,Northamptonshire,34UG,South Northamptonshire,,,Prospering UK,5,Prospering Smaller Towns,5.7,Prospering Smaller Towns - C,5.7.14
+E,East Midlands,34,Northamptonshire,34UH,Wellingborough,,,Prospering UK,5,New and Growing Towns,5.8,New and Growing Towns - A,5.8.15
+E,East Midlands,37,Nottinghamshire,37UB,Ashfield,,,Mining and Manufacturing,7,Manufacturing Towns,7.12,Manufacturing Towns - A,7.12.22
+E,East Midlands,37,Nottinghamshire,37UC,Bassetlaw,,,Mining and Manufacturing,7,Manufacturing Towns,7.12,Manufacturing Towns - A,7.12.22
+E,East Midlands,37,Nottinghamshire,37UD,Broxtowe,,,Prospering UK,5,Prospering Smaller Towns,5.7,Prospering Smaller Towns - A,5.7.12
+E,East Midlands,37,Nottinghamshire,37UE,Gedling,,,Prospering UK,5,Prospering Smaller Towns,5.7,Prospering Smaller Towns - A,5.7.12
+E,East Midlands,37,Nottinghamshire,37UF,Mansfield,,,Mining and Manufacturing,7,Manufacturing Towns,7.12,Manufacturing Towns - A,7.12.22
+E,East Midlands,37,Nottinghamshire,37UG,Newark and Sherwood,,,Prospering UK,5,Prospering Smaller Towns,5.7,Prospering Smaller Towns - B,5.7.13
+E,East Midlands,37,Nottinghamshire,37UJ,Rushcliffe,,,Prospering UK,5,Prospering Smaller Towns,5.7,Prospering Smaller Towns - A,5.7.12
+F,West Midlands,,,00CN,Birmingham,,,Cities and Services,1,Centres with Industry,1.2,Centres with Industry - B,1.2.3
+F,West Midlands,,,00CQ,Coventry,,,Cities and Services,1,Centres with Industry,1.2,Centres with Industry - A,1.2.2
+F,West Midlands,,,00CR,Dudley,,,Mining and Manufacturing,7,Manufacturing Towns,7.12,Manufacturing Towns - A,7.12.22
+F,West Midlands,,,00CS,Sandwell,,,Cities and Services,1,Centres with Industry,1.2,Centres with Industry - B,1.2.3
+F,West Midlands,,,00CT,Solihull,,,Prospering UK,5,Prospering Smaller Towns,5.7,Prospering Smaller Towns - A,5.7.12
+F,West Midlands,,,00CU,Walsall,,,Cities and Services,1,Centres with Industry,1.2,Centres with Industry - A,1.2.2
+F,West Midlands,,,00CW,Wolverhampton,,,Cities and Services,1,Centres with Industry,1.2,Centres with Industry - B,1.2.3
+F,West Midlands,,,00GA,"Herefordshire, County of",,,Prospering UK,5,Prospering Smaller Towns,5.7,Prospering Smaller Towns - B,5.7.13
+F,West Midlands,,,00GF,Telford and Wrekin,,,Mining and Manufacturing,7,Manufacturing Towns,7.12,Manufacturing Towns - A,7.12.22
+F,West Midlands,,,00GL,Stoke-on-Trent,,,Mining and Manufacturing,7,Industrial Hinterlands,7.11,Industrial Hinterlands - A,7.11.20
+F,West Midlands,39,Shropshire,39UB,Bridgnorth,,,Prospering UK,5,Prospering Smaller Towns,5.7,Prospering Smaller Towns - B,5.7.13
+F,West Midlands,39,Shropshire,39UC,North Shropshire,,,Prospering UK,5,Prospering Smaller Towns,5.7,Prospering Smaller Towns - B,5.7.13
+F,West Midlands,39,Shropshire,39UD,Oswestry,,,Prospering UK,5,Prospering Smaller Towns,5.7,Prospering Smaller Towns - B,5.7.13
+F,West Midlands,39,Shropshire,39UE,Shrewsbury and Atcham,,,Prospering UK,5,Prospering Smaller Towns,5.7,Prospering Smaller Towns - B,5.7.13
+F,West Midlands,39,Shropshire,39UF,South Shropshire,,,Coastal and Countryside,6,Coastal and Countryside.,6.1,Coastal and Countryside - A,6.10.17
+F,West Midlands,41,Staffordshire,41UB,Cannock Chase,,,Mining and Manufacturing,7,Manufacturing Towns,7.12,Manufacturing Towns - A,7.12.22
+F,West Midlands,41,Staffordshire,41UC,East Staffordshire,,,Mining and Manufacturing,7,Manufacturing Towns,7.12,Manufacturing Towns - A,7.12.22
+F,West Midlands,41,Staffordshire,41UD,Lichfield,,,Prospering UK,5,Prospering Smaller Towns,5.7,Prospering Smaller Towns - C,5.7.14
+F,West Midlands,41,Staffordshire,41UE,Newcastle-under-Lyme,,,Mining and Manufacturing,7,Manufacturing Towns,7.12,Manufacturing Towns - A,7.12.22
+F,West Midlands,41,Staffordshire,41UF,South Staffordshire,,,Prospering UK,5,Prospering Smaller Towns,5.7,Prospering Smaller Towns - C,5.7.14
+F,West Midlands,41,Staffordshire,41UG,Stafford,,,Prospering UK,5,Prospering Smaller Towns,5.7,Prospering Smaller Towns - B,5.7.13
+F,West Midlands,41,Staffordshire,41UH,Staffordshire Moorlands,,,Prospering UK,5,Prospering Smaller Towns,5.7,Prospering Smaller Towns - B,5.7.13
+F,West Midlands,41,Staffordshire,41UK,Tamworth,,,Mining and Manufacturing,7,Manufacturing Towns,7.12,Manufacturing Towns - A,7.12.22
+F,West Midlands,44,Warwickshire,44UB,North Warwickshire,,,Prospering UK,5,Prospering Smaller Towns,5.7,Prospering Smaller Towns - C,5.7.14
+F,West Midlands,44,Warwickshire,44UC,Nuneaton and Bedworth,,,Mining and Manufacturing,7,Manufacturing Towns,7.12,Manufacturing Towns - A,7.12.22
+F,West Midlands,44,Warwickshire,44UD,Rugby,,,Prospering UK,5,Prospering Smaller Towns,5.7,Prospering Smaller Towns - C,5.7.14
+F,West Midlands,44,Warwickshire,44UE,Stratford-on-Avon,,,Prospering UK,5,Prospering Smaller Towns,5.7,Prospering Smaller Towns - B,5.7.13
+F,West Midlands,44,Warwickshire,44UF,Warwick,,,Prospering UK,5,Prospering Smaller Towns,5.7,Prospering Smaller Towns - A,5.7.12
+F,West Midlands,47,Worcestershire,47UB,Bromsgrove,,,Prospering UK,5,Prospering Smaller Towns,5.7,Prospering Smaller Towns - C,5.7.14
+F,West Midlands,47,Worcestershire,47UC,Malvern Hills,,,Prospering UK,5,Prospering Smaller Towns,5.7,Prospering Smaller Towns - B,5.7.13
+F,West Midlands,47,Worcestershire,47UD,Redditch,,,Mining and Manufacturing,7,Manufacturing Towns,7.12,Manufacturing Towns - A,7.12.22
+F,West Midlands,47,Worcestershire,47UE,Worcester,,,Prospering UK,5,New and Growing Towns,5.8,New and Growing Towns - A,5.8.15
+F,West Midlands,47,Worcestershire,47UF,Wychavon,,,Prospering UK,5,Prospering Smaller Towns,5.7,Prospering Smaller Towns - B,5.7.13
+F,West Midlands,47,Worcestershire,47UG,Wyre Forest,,,Prospering UK,5,Prospering Smaller Towns,5.7,Prospering Smaller Towns - C,5.7.14
+G,East of England,,,00JA,Peterborough,,,Prospering UK,5,New and Growing Towns,5.8,New and Growing Towns - A,5.8.15
+G,East of England,,,00KA,Luton,,,London Suburbs,2,London Suburbs,2.4,London Suburbs - A,2.4.6
+G,East of England,,,00KF,Southend-on-Sea,,,Cities and Services,1,Regional Centres,1.1,Regional Centres - A,1.1.1
+G,East of England,,,00KG,Thurrock,,,Prospering UK,5,New and Growing Towns,5.8,New and Growing Towns - A,5.8.15
+G,East of England,09,Bedfordshire,09UC,Mid Bedfordshire,,,Prospering UK,5,Prospering Smaller Towns,5.7,Prospering Smaller Towns - C,5.7.14
+G,East of England,09,Bedfordshire,09UD,Bedford,,,Prospering UK,5,New and Growing Towns,5.8,New and Growing Towns - A,5.8.15
+G,East of England,09,Bedfordshire,09UE,South Bedfordshire,,,Prospering UK,5,Prospering Smaller Towns,5.7,Prospering Smaller Towns - C,5.7.14
+G,East of England,12,Cambridgeshire,12UB,Cambridge,,,Cities and Services,1,Thriving London Periphery,1.3,Thriving London Periphery - A,1.3.4
+G,East of England,12,Cambridgeshire,12UC,East Cambridgeshire,,,Prospering UK,5,Prospering Smaller Towns,5.7,Prospering Smaller Towns - C,5.7.14
+G,East of England,12,Cambridgeshire,12UD,Fenland,,,Prospering UK,5,Prospering Smaller Towns,5.7,Prospering Smaller Towns - C,5.7.14
+G,East of England,12,Cambridgeshire,12UE,Huntingdonshire,,,Prospering UK,5,Prospering Smaller Towns,5.7,Prospering Smaller Towns - C,5.7.14
+G,East of England,12,Cambridgeshire,12UG,South Cambridgeshire,,,Prospering UK,5,Prospering Southern England,5.9,Prospering Southern England - A,5.9.16
+G,East of England,22,Essex,22UB,Basildon,,,Prospering UK,5,New and Growing Towns,5.8,New and Growing Towns - A,5.8.15
+G,East of England,22,Essex,22UC,Braintree,,,Prospering UK,5,Prospering Smaller Towns,5.7,Prospering Smaller Towns - C,5.7.14
+G,East of England,22,Essex,22UD,Brentwood,,,Prospering UK,5,Prospering Southern England,5.9,Prospering Southern England - A,5.9.16
+G,East of England,22,Essex,22UE,Castle Point,,,Prospering UK,5,Prospering Smaller Towns,5.7,Prospering Smaller Towns - C,5.7.14
+G,East of England,22,Essex,22UF,Chelmsford,,,Prospering UK,5,Prospering Southern England,5.9,Prospering Southern England - A,5.9.16
+G,East of England,22,Essex,22UG,Colchester,,,Prospering UK,5,Prospering Smaller Towns,5.7,Prospering Smaller Towns - A,5.7.12
+G,East of England,22,Essex,22UH,Epping Forest,,,Prospering UK,5,Prospering Southern England,5.9,Prospering Southern England - A,5.9.16
+G,East of England,22,Essex,22UJ,Harlow,,,Prospering UK,5,New and Growing Towns,5.8,New and Growing Towns - A,5.8.15
+G,East of England,22,Essex,22UK,Maldon,,,Prospering UK,5,Prospering Smaller Towns,5.7,Prospering Smaller Towns - C,5.7.14
+G,East of England,22,Essex,22UL,Rochford,,,Prospering UK,5,Prospering Southern England,5.9,Prospering Southern England - A,5.9.16
+G,East of England,22,Essex,22UN,Tendring,,,Coastal and Countryside,6,Coastal and Countryside.,6.1,Coastal and Countryside - A,6.10.17
+G,East of England,22,Essex,22UQ,Uttlesford,,,Prospering UK,5,Prospering Southern England,5.9,Prospering Southern England - A,5.9.16
+G,East of England,26,Hertfordshire,26UB,Broxbourne,,,Prospering UK,5,New and Growing Towns,5.8,New and Growing Towns - A,5.8.15
+G,East of England,26,Hertfordshire,26UC,Dacorum,,,Prospering UK,5,Prospering Southern England,5.9,Prospering Southern England - A,5.9.16
+G,East of England,26,Hertfordshire,26UD,East Hertfordshire,,,Prospering UK,5,Prospering Southern England,5.9,Prospering Southern England - A,5.9.16
+G,East of England,26,Hertfordshire,26UE,Hertsmere,,,Prospering UK,5,Prospering Southern England,5.9,Prospering Southern England - A,5.9.16
+G,East of England,26,Hertfordshire,26UF,North Hertfordshire,,,Prospering UK,5,Prospering Southern England,5.9,Prospering Southern England - A,5.9.16
+G,East of England,26,Hertfordshire,26UG,St Albans,,,Prospering UK,5,Prospering Southern England,5.9,Prospering Southern England - A,5.9.16
+G,East of England,26,Hertfordshire,26UH,Stevenage,,,Prospering UK,5,New and Growing Towns,5.8,New and Growing Towns - A,5.8.15
+G,East of England,26,Hertfordshire,26UJ,Three Rivers,,,Prospering UK,5,Prospering Southern England,5.9,Prospering Southern England - A,5.9.16
+G,East of England,26,Hertfordshire,26UK,Watford,,,Cities and Services,1,Thriving London Periphery,1.3,Thriving London Periphery - B,1.3.5
+G,East of England,26,Hertfordshire,26UL,Welwyn Hatfield,,,Prospering UK,5,Prospering Smaller Towns,5.7,Prospering Smaller Towns - A,5.7.12
+G,East of England,33,Norfolk,33UB,Breckland,,,Prospering UK,5,Prospering Smaller Towns,5.7,Prospering Smaller Towns - B,5.7.13
+G,East of England,33,Norfolk,33UC,Broadland,,,Prospering UK,5,Prospering Smaller Towns,5.7,Prospering Smaller Towns - B,5.7.13
+G,East of England,33,Norfolk,33UD,Great Yarmouth,,,Coastal and Countryside,6,Coastal and Countryside.,6.1,Coastal and Countryside - B,6.10.18
+G,East of England,33,Norfolk,33UE,King's Lynn and West Norfolk,,,Prospering UK,5,Prospering Smaller Towns,5.7,Prospering Smaller Towns - B,5.7.13
+G,East of England,33,Norfolk,33UF,North Norfolk,,,Coastal and Countryside,6,Coastal and Countryside.,6.1,Coastal and Countryside - A,6.10.17
+G,East of England,33,Norfolk,33UG,Norwich,,,Cities and Services,1,Regional Centres,1.1,Regional Centres - A,1.1.1
+G,East of England,33,Norfolk,33UH,South Norfolk,,,Prospering UK,5,Prospering Smaller Towns,5.7,Prospering Smaller Towns - B,5.7.13
+G,East of England,42,Suffolk,42UB,Babergh,,,Prospering UK,5,Prospering Smaller Towns,5.7,Prospering Smaller Towns - B,5.7.13
+G,East of England,42,Suffolk,42UC,Forest Heath,,,Prospering UK,5,New and Growing Towns,5.8,New and Growing Towns - A,5.8.15
+G,East of England,42,Suffolk,42UD,Ipswich,,,Prospering UK,5,New and Growing Towns,5.8,New and Growing Towns - A,5.8.15
+G,East of England,42,Suffolk,42UE,Mid Suffolk,,,Prospering UK,5,Prospering Smaller Towns,5.7,Prospering Smaller Towns - C,5.7.14
+G,East of England,42,Suffolk,42UF,St Edmundsbury,,,Prospering UK,5,Prospering Smaller Towns,5.7,Prospering Smaller Towns - C,5.7.14
+G,East of England,42,Suffolk,42UG,Suffolk Coastal,,,Prospering UK,5,Prospering Smaller Towns,5.7,Prospering Smaller Towns - B,5.7.13
+G,East of England,42,Suffolk,42UH,Waveney,,,Coastal and Countryside,6,Coastal and Countryside.,6.1,Coastal and Countryside - B,6.10.18
+H,London,,,00AA,City of London,,,..,..,..,..,..,..
+H,London,,,00AB,Barking and Dagenham,,,Cities and Services,1,Centres with Industry,1.2,Centres with Industry - B,1.2.3
+H,London,,,00AC,Barnet,,,London Suburbs,2,London Suburbs,2.4,London Suburbs - A,2.4.6
+H,London,,,00AD,Bexley,,,Prospering UK,5,New and Growing Towns,5.8,New and Growing Towns - A,5.8.15
+H,London,,,00AE,Brent,,,London Cosmopolitan,4,London Cosmopolitan,4.6,London Cosmopolitan - B,4.6.11
+H,London,,,00AF,Bromley,,,Cities and Services,1,Thriving London Periphery,1.3,Thriving London Periphery - B,1.3.5
+H,London,,,00AG,Camden,,,London Centre,3,London Centre,3.5,London Centre - A,3.5.8
+H,London,,,00AH,Croydon,,,London Suburbs,2,London Suburbs,2.4,London Suburbs - B,2.4.7
+H,London,,,00AJ,Ealing,,,London Suburbs,2,London Suburbs,2.4,London Suburbs - A,2.4.6
+H,London,,,00AK,Enfield,,,London Suburbs,2,London Suburbs,2.4,London Suburbs - B,2.4.7
+H,London,,,00AL,Greenwich,,,London Suburbs,2,London Suburbs,2.4,London Suburbs - B,2.4.7
+H,London,,,00AM,Hackney,,,London Cosmopolitan,4,London Cosmopolitan,4.6,London Cosmopolitan - A,4.6.10
+H,London,,,00AN,Hammersmith and Fulham,,,London Centre,3,London Centre,3.5,London Centre - A,3.5.8
+H,London,,,00AP,Haringey,,,London Cosmopolitan,4,London Cosmopolitan,4.6,London Cosmopolitan - A,4.6.10
+H,London,,,00AQ,Harrow,,,London Suburbs,2,London Suburbs,2.4,London Suburbs - A,2.4.6
+H,London,,,00AR,Havering,,,Prospering UK,5,New and Growing Towns,5.8,New and Growing Towns - A,5.8.15
+H,London,,,00AS,Hillingdon,,,Cities and Services,1,Thriving London Periphery,1.3,Thriving London Periphery - B,1.3.5
+H,London,,,00AT,Hounslow,,,London Suburbs,2,London Suburbs,2.4,London Suburbs - A,2.4.6
+H,London,,,00AU,Islington,,,London Centre,3,London Centre,3.5,London Centre - A,3.5.8
+H,London,,,00AW,Kensington and Chelsea,,,London Centre,3,London Centre,3.5,London Centre - A,3.5.8
+H,London,,,00AX,Kingston upon Thames,,,Cities and Services,1,Thriving London Periphery,1.3,Thriving London Periphery - B,1.3.5
+H,London,,,00AY,Lambeth,,,London Cosmopolitan,4,London Cosmopolitan,4.6,London Cosmopolitan - A,4.6.10
+H,London,,,00AZ,Lewisham,,,London Cosmopolitan,4,London Cosmopolitan,4.6,London Cosmopolitan - A,4.6.10
+H,London,,,00BA,Merton,,,London Suburbs,2,London Suburbs,2.4,London Suburbs - A,2.4.6
+H,London,,,00BB,Newham,,,London Cosmopolitan,4,London Cosmopolitan,4.6,London Cosmopolitan - B,4.6.11
+H,London,,,00BC,Redbridge,,,London Suburbs,2,London Suburbs,2.4,London Suburbs - A,2.4.6
+H,London,,,00BD,Richmond upon Thames,,,Cities and Services,1,Thriving London Periphery,1.3,Thriving London Periphery - B,1.3.5
+H,London,,,00BE,Southwark,,,London Cosmopolitan,4,London Cosmopolitan,4.6,London Cosmopolitan - A,4.6.10
+H,London,,,00BF,Sutton,,,Cities and Services,1,Thriving London Periphery,1.3,Thriving London Periphery - B,1.3.5
+H,London,,,00BG,Tower Hamlets,,,London Centre,3,London Centre,3.5,London Centre - B,3.5.9
+H,London,,,00BH,Waltham Forest,,,London Suburbs,2,London Suburbs,2.4,London Suburbs - B,2.4.7
+H,London,,,00BJ,Wandsworth,,,London Centre,3,London Centre,3.5,London Centre - A,3.5.8
+H,London,,,00BK,Westminster,,,London Centre,3,London Centre,3.5,London Centre - A,3.5.8
+J,South East,,,00LC,Medway,,,Prospering UK,5,New and Growing Towns,5.8,New and Growing Towns - A,5.8.15
+J,South East,,,00MA,Bracknell Forest,,,Prospering UK,5,Prospering Southern England,5.9,Prospering Southern England - A,5.9.16
+J,South East,,,00MB,West Berkshire,,,Prospering UK,5,Prospering Southern England,5.9,Prospering Southern England - A,5.9.16
+J,South East,,,00MC,Reading,,,Cities and Services,1,Thriving London Periphery,1.3,Thriving London Periphery - B,1.3.5
+J,South East,,,00MD,Slough,,,London Suburbs,2,London Suburbs,2.4,London Suburbs - A,2.4.6
+J,South East,,,00ME,Windsor and Maidenhead,,,Prospering UK,5,Prospering Southern England,5.9,Prospering Southern England - A,5.9.16
+J,South East,,,00MF,Wokingham,,,Prospering UK,5,Prospering Southern England,5.9,Prospering Southern England - A,5.9.16
+J,South East,,,00MG,Milton Keynes,,,Prospering UK,5,New and Growing Towns,5.8,New and Growing Towns - A,5.8.15
+J,South East,,,00ML,Brighton and Hove,,,Cities and Services,1,Regional Centres,1.1,Regional Centres - A,1.1.1
+J,South East,,,00MR,Portsmouth,,,Cities and Services,1,Regional Centres,1.1,Regional Centres - A,1.1.1
+J,South East,,,00MS,Southampton,,,Cities and Services,1,Regional Centres,1.1,Regional Centres - A,1.1.1
+J,South East,,,00MW,Isle of Wight,,,Coastal and Countryside,6,Coastal and Countryside.,6.1,Coastal and Countryside - B,6.10.18
+J,South East,11,Buckinghamshire,11UB,Aylesbury Vale,,,Prospering UK,5,Prospering Southern England,5.9,Prospering Southern England - A,5.9.16
+J,South East,11,Buckinghamshire,11UC,Chiltern,,,Prospering UK,5,Prospering Southern England,5.9,Prospering Southern England - A,5.9.16
+J,South East,11,Buckinghamshire,11UE,South Bucks,,,Prospering UK,5,Prospering Southern England,5.9,Prospering Southern England - A,5.9.16
+J,South East,11,Buckinghamshire,11UF,Wycombe,,,Prospering UK,5,Prospering Southern England,5.9,Prospering Southern England - A,5.9.16
+J,South East,21,East Sussex,21UC,Eastbourne,,,Cities and Services,1,Regional Centres,1.1,Regional Centres - A,1.1.1
+J,South East,21,East Sussex,21UD,Hastings,,,Cities and Services,1,Regional Centres,1.1,Regional Centres - A,1.1.1
+J,South East,21,East Sussex,21UF,Lewes,,,Prospering UK,5,Prospering Smaller Towns,5.7,Prospering Smaller Towns - B,5.7.13
+J,South East,21,East Sussex,21UG,Rother,,,Coastal and Countryside,6,Coastal and Countryside.,6.1,Coastal and Countryside - A,6.10.17
+J,South East,21,East Sussex,21UH,Wealden,,,Prospering UK,5,Prospering Smaller Towns,5.7,Prospering Smaller Towns - B,5.7.13
+J,South East,24,Hampshire,24UB,Basingstoke and Deane,,,Prospering UK,5,Prospering Southern England,5.9,Prospering Southern England - A,5.9.16
+J,South East,24,Hampshire,24UC,East Hampshire,,,Prospering UK,5,Prospering Southern England,5.9,Prospering Southern England - A,5.9.16
+J,South East,24,Hampshire,24UD,Eastleigh,,,Prospering UK,5,Prospering Smaller Towns,5.7,Prospering Smaller Towns - C,5.7.14
+J,South East,24,Hampshire,24UE,Fareham,,,Prospering UK,5,Prospering Smaller Towns,5.7,Prospering Smaller Towns - C,5.7.14
+J,South East,24,Hampshire,24UF,Gosport,,,Prospering UK,5,New and Growing Towns,5.8,New and Growing Towns - A,5.8.15
+J,South East,24,Hampshire,24UG,Hart,,,Prospering UK,5,Prospering Southern England,5.9,Prospering Southern England - A,5.9.16
+J,South East,24,Hampshire,24UH,Havant,,,Mining and Manufacturing,7,Manufacturing Towns,7.12,Manufacturing Towns - A,7.12.22
+J,South East,24,Hampshire,24UJ,New Forest,,,Prospering UK,5,Prospering Smaller Towns,5.7,Prospering Smaller Towns - B,5.7.13
+J,South East,24,Hampshire,24UL,Rushmoor,,,Prospering UK,5,New and Growing Towns,5.8,New and Growing Towns - A,5.8.15
+J,South East,24,Hampshire,24UN,Test Valley,,,Prospering UK,5,Prospering Southern England,5.9,Prospering Southern England - A,5.9.16
+J,South East,24,Hampshire,24UP,Winchester,,,Prospering UK,5,Prospering Southern England,5.9,Prospering Southern England - A,5.9.16
+J,South East,29,Kent,29UB,Ashford,,,Prospering UK,5,Prospering Smaller Towns,5.7,Prospering Smaller Towns - C,5.7.14
+J,South East,29,Kent,29UC,Canterbury,,,Prospering UK,5,Prospering Smaller Towns,5.7,Prospering Smaller Towns - A,5.7.12
+J,South East,29,Kent,29UD,Dartford,,,Prospering UK,5,New and Growing Towns,5.8,New and Growing Towns - A,5.8.15
+J,South East,29,Kent,29UE,Dover,,,Coastal and Countryside,6,Coastal and Countryside.,6.1,Coastal and Countryside - B,6.10.18
+J,South East,29,Kent,29UG,Gravesham,,,Prospering UK,5,New and Growing Towns,5.8,New and Growing Towns - A,5.8.15
+J,South East,29,Kent,29UH,Maidstone,,,Prospering UK,5,Prospering Smaller Towns,5.7,Prospering Smaller Towns - C,5.7.14
+J,South East,29,Kent,29UK,Sevenoaks,,,Prospering UK,5,Prospering Southern England,5.9,Prospering Southern England - A,5.9.16
+J,South East,29,Kent,29UL,Shepway,,,Coastal and Countryside,6,Coastal and Countryside.,6.1,Coastal and Countryside - B,6.10.18
+J,South East,29,Kent,29UM,Swale,,,Mining and Manufacturing,7,Manufacturing Towns,7.12,Manufacturing Towns - A,7.12.22
+J,South East,29,Kent,29UN,Thanet,,,Coastal and Countryside,6,Coastal and Countryside.,6.1,Coastal and Countryside - B,6.10.18
+J,South East,29,Kent,29UP,Tonbridge and Malling,,,Prospering UK,5,Prospering Southern England,5.9,Prospering Southern England - A,5.9.16
+J,South East,29,Kent,29UQ,Tunbridge Wells,,,Prospering UK,5,Prospering Southern England,5.9,Prospering Southern England - A,5.9.16
+J,South East,38,Oxfordshire,38UB,Cherwell,,,Prospering UK,5,Prospering Smaller Towns,5.7,Prospering Smaller Towns - C,5.7.14
+J,South East,38,Oxfordshire,38UC,Oxford,,,Cities and Services,1,Thriving London Periphery,1.3,Thriving London Periphery - A,1.3.4
+J,South East,38,Oxfordshire,38UD,South Oxfordshire,,,Prospering UK,5,Prospering Southern England,5.9,Prospering Southern England - A,5.9.16
+J,South East,38,Oxfordshire,38UE,Vale of White Horse,,,Prospering UK,5,Prospering Southern England,5.9,Prospering Southern England - A,5.9.16
+J,South East,38,Oxfordshire,38UF,West Oxfordshire,,,Prospering UK,5,Prospering Smaller Towns,5.7,Prospering Smaller Towns - C,5.7.14
+J,South East,43,Surrey,43UB,Elmbridge,,,Prospering UK,5,Prospering Southern England,5.9,Prospering Southern England - A,5.9.16
+J,South East,43,Surrey,43UC,Epsom and Ewell,,,Prospering UK,5,Prospering Southern England,5.9,Prospering Southern England - A,5.9.16
+J,South East,43,Surrey,43UD,Guildford,,,Prospering UK,5,Prospering Southern England,5.9,Prospering Southern England - A,5.9.16
+J,South East,43,Surrey,43UE,Mole Valley,,,Prospering UK,5,Prospering Southern England,5.9,Prospering Southern England - A,5.9.16
+J,South East,43,Surrey,43UF,Reigate and Banstead,,,Prospering UK,5,Prospering Southern England,5.9,Prospering Southern England - A,5.9.16
+J,South East,43,Surrey,43UG,Runnymede,,,Prospering UK,5,Prospering Southern England,5.9,Prospering Southern England - A,5.9.16
+J,South East,43,Surrey,43UH,Spelthorne,,,Prospering UK,5,Prospering Southern England,5.9,Prospering Southern England - A,5.9.16
+J,South East,43,Surrey,43UJ,Surrey Heath,,,Prospering UK,5,Prospering Southern England,5.9,Prospering Southern England - A,5.9.16
+J,South East,43,Surrey,43UK,Tandridge,,,Prospering UK,5,Prospering Southern England,5.9,Prospering Southern England - A,5.9.16
+J,South East,43,Surrey,43UL,Waverley,,,Prospering UK,5,Prospering Southern England,5.9,Prospering Southern England - A,5.9.16
+J,South East,43,Surrey,43UM,Woking,,,Prospering UK,5,Prospering Southern England,5.9,Prospering Southern England - A,5.9.16
+J,South East,45,West Sussex,45UB,Adur,,,Prospering UK,5,Prospering Smaller Towns,5.7,Prospering Smaller Towns - A,5.7.12
+J,South East,45,West Sussex,45UC,Arun,,,Coastal and Countryside,6,Coastal and Countryside.,6.1,Coastal and Countryside - A,6.10.17
+J,South East,45,West Sussex,45UD,Chichester,,,Coastal and Countryside,6,Coastal and Countryside.,6.1,Coastal and Countryside - A,6.10.17
+J,South East,45,West Sussex,45UE,Crawley,,,Prospering UK,5,New and Growing Towns,5.8,New and Growing Towns - A,5.8.15
+J,South East,45,West Sussex,45UF,Horsham,,,Prospering UK,5,Prospering Southern England,5.9,Prospering Southern England - A,5.9.16
+J,South East,45,West Sussex,45UG,Mid Sussex,,,Prospering UK,5,Prospering Southern England,5.9,Prospering Southern England - A,5.9.16
+J,South East,45,West Sussex,45UH,Worthing,,,Cities and Services,1,Regional Centres,1.1,Regional Centres - A,1.1.1
+K,South West,,,00HA,Bath and North East Somerset,,,Prospering UK,5,Prospering Smaller Towns,5.7,Prospering Smaller Towns - A,5.7.12
+K,South West,,,00HB,"Bristol, City of",,,Cities and Services,1,Regional Centres,1.1,Regional Centres - A,1.1.1
+K,South West,,,00HC,North Somerset,,,Prospering UK,5,Prospering Smaller Towns,5.7,Prospering Smaller Towns - B,5.7.13
+K,South West,,,00HD,South Gloucestershire,,,Prospering UK,5,Prospering Smaller Towns,5.7,Prospering Smaller Towns - C,5.7.14
+K,South West,,,00HG,Plymouth,,,Cities and Services,1,Regional Centres,1.1,Regional Centres - A,1.1.1
+K,South West,,,00HH,Torbay,,,Coastal and Countryside,6,Coastal and Countryside.,6.1,Coastal and Countryside - B,6.10.18
+K,South West,,,00HN,Bournemouth,,,Cities and Services,1,Regional Centres,1.1,Regional Centres - A,1.1.1
+K,South West,,,00HP,Poole,,,Prospering UK,5,Prospering Smaller Towns,5.7,Prospering Smaller Towns - A,5.7.12
+K,South West,,,00HX,Swindon,,,Prospering UK,5,New and Growing Towns,5.8,New and Growing Towns - A,5.8.15
+K,South West,15,Cornwall and Isles of Scilly,15UB,Caradon,,,Coastal and Countryside,6,Coastal and Countryside.,6.1,Coastal and Countryside - A,6.10.17
+K,South West,15,Cornwall and Isles of Scilly,15UC,Carrick,,,Coastal and Countryside,6,Coastal and Countryside.,6.1,Coastal and Countryside - B,6.10.18
+K,South West,15,Cornwall and Isles of Scilly,15UD,Kerrier,,,Coastal and Countryside,6,Coastal and Countryside.,6.1,Coastal and Countryside - B,6.10.18
+K,South West,15,Cornwall and Isles of Scilly,15UE,North Cornwall,,,Coastal and Countryside,6,Coastal and Countryside.,6.1,Coastal and Countryside - A,6.10.17
+K,South West,15,Cornwall and Isles of Scilly,15UF,Penwith,,,Coastal and Countryside,6,Coastal and Countryside.,6.1,Coastal and Countryside - B,6.10.18
+K,South West,15,Cornwall and Isles of Scilly,15UG,Restormel,,,Coastal and Countryside,6,Coastal and Countryside.,6.1,Coastal and Countryside - B,6.10.18
+K,South West,15,Cornwall and Isles of Scilly,15UH,Isles of Scilly,,,..,..,..,..,..,..
+K,South West,18,Devon,18UB,East Devon,,,Coastal and Countryside,6,Coastal and Countryside.,6.1,Coastal and Countryside - A,6.10.17
+K,South West,18,Devon,18UC,Exeter,,,Cities and Services,1,Regional Centres,1.1,Regional Centres - A,1.1.1
+K,South West,18,Devon,18UD,Mid Devon,,,Prospering UK,5,Prospering Smaller Towns,5.7,Prospering Smaller Towns - B,5.7.13
+K,South West,18,Devon,18UE,North Devon,,,Coastal and Countryside,6,Coastal and Countryside.,6.1,Coastal and Countryside - A,6.10.17
+K,South West,18,Devon,18UG,South Hams,,,Coastal and Countryside,6,Coastal and Countryside.,6.1,Coastal and Countryside - A,6.10.17
+K,South West,18,Devon,18UH,Teignbridge,,,Coastal and Countryside,6,Coastal and Countryside.,6.1,Coastal and Countryside - A,6.10.17
+K,South West,18,Devon,18UK,Torridge,,,Coastal and Countryside,6,Coastal and Countryside.,6.1,Coastal and Countryside - A,6.10.17
+K,South West,18,Devon,18UL,West Devon,,,Coastal and Countryside,6,Coastal and Countryside.,6.1,Coastal and Countryside - A,6.10.17
+K,South West,19,Dorset,19UC,Christchurch,,,Coastal and Countryside,6,Coastal and Countryside.,6.1,Coastal and Countryside - A,6.10.17
+K,South West,19,Dorset,19UD,East Dorset,,,Prospering UK,5,Prospering Smaller Towns,5.7,Prospering Smaller Towns - B,5.7.13
+K,South West,19,Dorset,19UE,North Dorset,,,Prospering UK,5,Prospering Smaller Towns,5.7,Prospering Smaller Towns - B,5.7.13
+K,South West,19,Dorset,19UG,Purbeck,,,Coastal and Countryside,6,Coastal and Countryside.,6.1,Coastal and Countryside - A,6.10.17
+K,South West,19,Dorset,19UH,West Dorset,,,Coastal and Countryside,6,Coastal and Countryside.,6.1,Coastal and Countryside - A,6.10.17
+K,South West,19,Dorset,19UJ,Weymouth and Portland,,,Coastal and Countryside,6,Coastal and Countryside.,6.1,Coastal and Countryside - B,6.10.18
+K,South West,23,Gloucestershire,23UB,Cheltenham,,,Prospering UK,5,Prospering Smaller Towns,5.7,Prospering Smaller Towns - A,5.7.12
+K,South West,23,Gloucestershire,23UC,Cotswold,,,Prospering UK,5,Prospering Smaller Towns,5.7,Prospering Smaller Towns - B,5.7.13
+K,South West,23,Gloucestershire,23UD,Forest of Dean,,,Prospering UK,5,Prospering Smaller Towns,5.7,Prospering Smaller Towns - B,5.7.13
+K,South West,23,Gloucestershire,23UE,Gloucester,,,Prospering UK,5,New and Growing Towns,5.8,New and Growing Towns - A,5.8.15
+K,South West,23,Gloucestershire,23UF,Stroud,,,Prospering UK,5,Prospering Smaller Towns,5.7,Prospering Smaller Towns - B,5.7.13
+K,South West,23,Gloucestershire,23UG,Tewkesbury,,,Prospering UK,5,Prospering Smaller Towns,5.7,Prospering Smaller Towns - B,5.7.13
+K,South West,40,Somerset,40UB,Mendip,,,Prospering UK,5,Prospering Smaller Towns,5.7,Prospering Smaller Towns - B,5.7.13
+K,South West,40,Somerset,40UC,Sedgemoor,,,Prospering UK,5,Prospering Smaller Towns,5.7,Prospering Smaller Towns - B,5.7.13
+K,South West,40,Somerset,40UD,South Somerset,,,Prospering UK,5,Prospering Smaller Towns,5.7,Prospering Smaller Towns - B,5.7.13
+K,South West,40,Somerset,40UE,Taunton Deane,,,Prospering UK,5,Prospering Smaller Towns,5.7,Prospering Smaller Towns - B,5.7.13
+K,South West,40,Somerset,40UF,West Somerset,,,Coastal and Countryside,6,Coastal and Countryside.,6.1,Coastal and Countryside - A,6.10.17
+K,South West,46,Wiltshire,46UB,Kennet,,,Prospering UK,5,Prospering Southern England,5.9,Prospering Southern England - A,5.9.16
+K,South West,46,Wiltshire,46UC,North Wiltshire,,,Prospering UK,5,Prospering Southern England,5.9,Prospering Southern England - A,5.9.16
+K,South West,46,Wiltshire,46UD,Salisbury,,,Prospering UK,5,Prospering Smaller Towns,5.7,Prospering Smaller Towns - B,5.7.13
+K,South West,46,Wiltshire,46UF,West Wiltshire,,,Prospering UK,5,Prospering Smaller Towns,5.7,Prospering Smaller Towns - C,5.7.14
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,

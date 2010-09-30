@@ -1,0 +1,87 @@
+{% extends "base.html" %}
+
+
+{% block title %}{% if not trustset %}Find Methicillin-resistant <em>Staphylococcus aureus</em> near you!{% else %}MRSA near {{name}}, UK{% endif %}{% endblock%}
+
+{% block formpanel %}
+	{% if trustset %}
+		<div class="nearest">
+			{% for item in trustset %}
+				{% if forloop.first %}
+					<div class="infoblock">
+						<float class="markermap">
+							<img src="/mrsanearyou/map/{{item.trust_code}}" />
+						</float>
+						<float class="information">
+							<h2>1. {{item.name}}</h2>
+							<div>{% ifequal item.average 0.0 %}<strong>There's none here!</strong> <strong>{{item.name}}</strong>  (<strong>{{item.distance}} miles away</strong>) has no reported cases ever.{% else %} We think the nearest MRSA to you is at <strong>{{item.name}}</strong>  (<strong>{{item.distance}} miles away</strong>).{% endifequal %}</div>
+							<div>It has an average of {{item.average}} cases per month. On average performance, it's ranked <strong>{{item.best}}</strong> out of {{totalcount}} NHS Trusts.</div>
+							<div class="graphholder"><img src="/mrsanearyou/graph/top/{{item.trust_code}}" /></div>
+						</float>
+					</div>
+				{% endif %}
+			{% endfor %}
+		</div>
+	{% endif %}
+		<form action="/" method="GET" class="searchform">
+			<input type="text" name="q" value="{{q}}">
+			<input type="submit" value="Go" class="submit">
+		</form>
+	{% if not trustset %}
+		<div>e.g. <a href="?q=London">London</a> or <a href="?q=Brighton">Brighton</a> or <a href="?q=N8 9TJ">N8 9TJ</a></div>
+	{% endif %}
+{% endblock %}
+
+{% block results %}
+	{% if trustset %}
+		<h2>Other MRSA nearby</h2>
+		<div class="bigmap">
+			{% ifequal count 1 %}
+				<img src="http://maps.google.com/maps/api/staticmap?size=700x300&maptype=roadmap&markers=size:large|color:0x666666|{{lat}},{{lon}}{% for item in trustset %}&markers=size:medium|color:0x{{item.labelcolor}}|label:{{forloop.counter}}|{{item.lat}},{{item.lon}}{% endfor %}&sensor=false" />
+			{% else %}
+				<img src="http://maps.google.com/maps/api/staticmap?size=700x300&maptype=roadmap&markers=size:large|color:0x666666|{{lat}},{{lon}}{% for item in trustset %}&markers=size:medium|color:0x{{item.labelcolor}}|label:{{forloop.counter}}|{{item.lat}},{{item.lon}}{% endfor %}&sensor=false" />
+			{% endifequal %}
+		</div>
+			{% for item in trustset %}
+				{% if not forloop.first %}
+					<div class="resultsblock">
+						<float class="markermap">
+							<img src="/mrsanearyou/map/{{item.trust_code}}" />
+						</float>
+						<float class="information">
+							<h2>{{forloop.counter}}. {{item.name}} ({{item.distance}} miles away)</h2>
+							<div>It has an average of <strong>{{item.average}}</strong> cases per month. On average performance, it's ranked <strong>{{item.best}}</strong> out of <strong>{{totalcount}}</strong> NHS Trusts.</div>
+							<div class="graphholder"><img src="/mrsanearyou/graph/results/{{item.trust_code}}" /></div>
+						</float>
+					</div>
+				{% endif %}
+			{% endfor %}
+	{% else %}
+		{% if q %}
+			<div class="infotext">
+			<div>
+				We couldn't find anything. This is most likely for one of two reasons: 
+			</div>
+			<ul>
+				<li>
+					<strong>If {{name}}</strong> is quite a remote place and outside of the search range for a hospital, or is not in the UK.
+				</li>
+				<li>
+					There is no data for the hospitals near <strong>{{name}}</strong>.
+				</li>
+			</ul>
+			<div>
+				If it's neither of these things, we're really sorry, there could be gremlins somewhere in the internet.
+			</div>
+			<div>
+				p.s. Could also be a spelling mistake...
+			</div>
+			</div>
+		{% else %}
+			<div class="infotext">
+				What to do. Enter something in the box above and press Go. 
+			</div>
+		{% endif %}
+	{% endif %}
+{% endblock %}
+

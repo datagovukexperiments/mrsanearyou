@@ -1,0 +1,131 @@
+body {
+	font-family: "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+	margin: 0px;
+	border: 0px;
+	height: 100%;
+	width: 100%;
+	background-color: #bd9;
+}
+
+a {
+	color: #668899;
+}
+
+.searchform {
+	margin-top: 20px;
+}
+
+.form {
+	position: absolute;
+	top: 0px;
+	min-height: 350px;
+	width: 100%;
+	background-color: #def;
+}
+
+.results {
+	position: absolute;
+	top: 350px;
+	border-top: 2px solid #ac8;
+	padding-top: 10px;
+	min-height: 300px;
+	width: 100%;
+}
+
+.footer {
+	margin-top: 30px;
+	padding-top: 10px;
+	border-top: 1px dotted #ac8;
+	padding-bottom: 20px;
+	color: #697;
+}
+
+.infotext {
+	color: #364;
+}
+
+.container {
+	margin-left: auto;
+	margin-right: auto;
+	max-width: 900px;
+	min-width: 900px;
+}
+
+.nearest {
+	margin-bottom: 10px;
+	margin-bottom: 20px;
+}
+
+.infoblock {
+	max-width: 900px;
+	min-width: 900px;
+	clear: both;
+	min-height: 100px;
+}
+
+.resultsblock {
+	clear: both;
+	min-height: 100px;
+	margin-bottom: 20px;
+}
+
+.markermap {
+	float: left;
+	margin-right: 20px;
+}
+
+.information {
+	float: left;
+	max-width: 750px;
+}
+
+.graphholder {
+	margin-top: 15px;
+}
+
+.bigmap {
+	height: 300px;
+	margin-top: 10px;
+	margin-bottom: 20px;
+}
+
+h1 {
+	margin-top: 60px;
+	font-size: 2em;
+	margin-bottom: 20px;
+}
+
+h2 {
+	margin: 0px;
+	font-size: 1.5em;
+}
+
+h3 {
+	margin-top: 20px;
+	margin-bottom: 5px;
+	font-size: 1.25em;
+}
+
+input {
+	font-family: "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+	font-size: 24pt;
+	border: 2px solid #99bbcc;
+	background-color: #fff;
+	min-height: 52px;
+	max-height: 52px;
+	min-width: 400px;
+	vertical-align: bottom;
+}
+
+input.submit {
+	font-family: "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+	font-size: 16pt;
+	border: 2px solid #99bbcc;
+	background-color: #9b7;
+	color: #fff;
+	min-height: 52px;
+	max-height: 52px;
+	min-width: 80px;
+	text-align: center;
+	vertical-align: bottom;
+}

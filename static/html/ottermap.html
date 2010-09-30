@@ -1,0 +1,62 @@
+<html>
+<head>
+	<title>Rivers with Otters (Map)</title>
+	<script type='text/javascript' src='http://www.google.com/jsapi'></script>
+	<script type="text/javascript" src="/static/js/jquery-1.4.2.min.js"></script>
+	<script type="text/javascript" src="/static/data/otter.js"></script>
+</head>
+
+<body>
+    
+	<h3>Rivers with Otters (Map)</h3>
+	<div id="container"></div>
+	<p>
+		Built with data from the <a href="http://data.gov.uk/dataset/national-otter-surveys-1977to79-1984to86-1991to94-and-2000to02">National Otter Surveys</a>.
+	</p>
+	
+	
+	<script type='text/javascript'>
+		
+  		google.load('visualization', '1', {'packages': ['geomap']});
+   		google.setOnLoadCallback(function () {
+			$.each(dataset, function(intIndex, dataslice) {
+				$('#container').append('<div><strong>'+ dataslice.label +'</strong></div>');
+				$('#container').append('<div id=\'map_canvas' + intIndex + '\'></div>');
+			});
+			$.each(dataset, function(intIndex, dataslice) {
+				drawMap(dataslice, intIndex);
+			});
+
+		});
+
+
+
+    	function drawMap(dataslice, index) {
+   			var data = new google.visualization.DataTable();
+   			data.addRows(3);
+   			data.addColumn('string', 'Location');
+   			data.addColumn('number', 'River stretches with otters');
+			$.each(dataslice.countries, function(intIndex, country) {
+   				data.setValue(intIndex, 0, country.country);
+   				data.setValue(intIndex, 1, country.value);
+			});
+		
+      		var options = {};
+      		options['region'] = 'GB';
+      		options['height'] = '250px';
+      		options['width'] = '250px';
+      		options['colors'] = [0xFF8747,0xc06000]; //orange colors
+      		options['dataMode'] = 'regions';
+
+
+      		var container = document.getElementById('map_canvas' + index);
+     		var geomap = new google.visualization.GeoMap(container);
+      		geomap.draw(data, options);
+
+		}
+		
+  </script>
+
+</body>
+
+</html>

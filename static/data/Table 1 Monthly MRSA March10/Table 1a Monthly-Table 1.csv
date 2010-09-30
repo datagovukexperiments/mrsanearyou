@@ -1,0 +1,201 @@
+Trust Code,Trust Category,Trust Type,Region,Trust Name,March 2009,April 2009,May 2009,June 2009,July 2009,August 2009,September 2009,October 2009,November 2009,December 2009,January 2010,February 2010,March 2010,Trust Name
+REM,M,FT,North West,Aintree University Hospitals,1,2,3,1,1,3,3,0,0,0,3,0,2,Aintree University Hospitals
+RCF,S,--,Yorkshire & the Humber,Airedale,0,0,1,1,1,0,0,0,0,2,1,0,1,Airedale
+RBS,Sp(c),FT,North West,Alder Hey Children's,1,1,1,0,0,0,0,0,1,1,0,0,1,Alder Hey Children's
+RTK,M,--,South East,Ashford & St Peter's Hospitals,2,0,1,0,0,1,4,0,1,1,0,0,1,Ashford & St Peter's Hospitals
+RF4,L,--,London,"Barking, Havering & Redbridge Hospitals",1,2,4,3,2,2,4,1,5,2,6,4,4,"Barking, Havering & Redbridge Hospitals"
+RVL,L,--,London,Barnet & Chase Farm Hospitals,1,2,1,0,3,1,2,2,0,1,1,3,0,Barnet & Chase Farm Hospitals
+RFF,S,FT,Yorkshire & the Humber,Barnsley Hospital,0,0,0,0,0,0,1,1,0,0,0,0,0,Barnsley Hospital
+RNJ,T,--,London,Barts & the London,2,0,0,7,2,3,3,5,1,2,1,1,3,Barts & the London
+RDD,M,FT,East of England,Basildon & Thurrock University Hospitals,2,1,0,0,0,0,0,1,0,2,0,0,2,Basildon & Thurrock University Hospitals
+RN5,M,FT,South East,Basingstoke & North Hampshire,0,0,1,0,0,0,1,0,0,1,0,0,1,Basingstoke & North Hampshire
+,,,,,,,,,,,,,,,,,,
+RC1,S,--,East of England,Bedford Hospital,0,0,0,0,2,1,0,0,0,1,1,0,0,Bedford Hospital
+RQ3,Sp(c),FT,West Midlands,Birmingham Children's Hospital,0,2,1,0,0,0,0,0,0,0,0,0,0,Birmingham Children's Hospital
+RLU,Sp,FT,West Midlands,Birmingham Women's,0,0,0,0,0,0,0,0,0,0,0,0,0,Birmingham Women's
+RXL,L,FT,North West,"Blackpool, Fylde & Wyre Hospitals",1,1,0,1,0,0,1,1,1,0,1,1,1,"Blackpool, Fylde & Wyre Hospitals"
+RAE,L,FT,Yorkshire & the Humber,Bradford Teaching Hospitals,4,1,1,1,1,0,2,0,0,1,1,1,0,Bradford Teaching Hospitals
+,,,,,,,,,,,,,,,,,,
+RXH,T,--,South East,Brighton & Sussex University Hospitals,6,4,3,3,2,3,2,2,1,1,1,3,2,Brighton & Sussex University Hospitals
+RXQ,M,--,South East,Buckinghamshire Hospitals,0,0,1,0,0,6,1,1,1,1,0,0,1,Buckinghamshire Hospitals
+RJF,S,FT,West Midlands,Burton Hospitals,1,1,2,0,0,2,1,1,0,0,1,1,1,Burton Hospitals
+RWY,L,FT,Yorkshire & the Humber,Calderdale & Huddersfield,2,0,2,1,2,2,0,1,0,3,2,1,2,Calderdale & Huddersfield
+RGT,T,FT,East of England,Cambridge University Hospitals,4,1,3,3,3,1,0,3,2,1,1,1,1,Cambridge University Hospitals
+,,,,,,,,,,,,,,,,,,
+RW3,T,FT,North West,Central Manchester University Hospitals,0,0,0,0,0,1,0,1,2,0,1,2,1,Central Manchester University Hospitals
+RQM,T,FT,London,Chelsea & Westminster Hospital,0,1,0,0,2,1,1,3,1,0,1,0,0,Chelsea & Westminster Hospital
+RFS,M,FT,East Midlands,Chesterfield Royal Hospital,1,0,1,1,0,0,0,0,1,1,1,1,0,Chesterfield Royal Hospital
+RBV,Sp,FT,North West,Christie Hospital,1,0,1,0,0,0,0,1,0,0,0,0,0,Christie Hospital
+RLN,L,FT,North East,City Hospitals Sunderland,1,4,1,2,1,2,1,1,1,2,1,4,0,City Hospitals Sunderland
+,,,,,,,,,,,,,,,,,,
+REN,Sp,FT,North West,Clatterbridge Centre for Oncology,0,0,0,0,0,0,0,0,0,0,0,0,0,Clatterbridge Centre for Oncology
+RDE,M,FT,East of England,Colchester Hospital University,3,1,0,2,1,1,1,0,1,0,0,1,1,Colchester Hospital University
+RJR,M,FT,North West,Countess of Chester Hospital,0,0,1,1,0,0,0,1,1,0,0,1,1,Countess of Chester Hospital
+RXP,L,FT,North East,County Durham & Darlington,2,0,1,0,2,0,0,1,2,1,0,0,0,County Durham & Darlington
+RN7,S,--,South East,Dartford & Gravesham,2,1,0,1,1,1,0,2,1,1,1,1,0,Dartford & Gravesham
+,,,,,,,,,,,,,,,,,,
+RTG,L,FT,East Midlands,Derby Hospitals,1,1,2,0,5,0,0,0,3,3,2,3,2,Derby Hospitals
+RP5,L,FT,Yorkshire & the Humber,Doncaster & Bassetlaw Hospitals,2,0,1,0,2,1,2,1,1,0,4,0,0,Doncaster & Bassetlaw Hospitals
+RBD,S,FT,South West,Dorset County Hospital,1,2,1,2,1,0,1,0,1,1,0,0,0,Dorset County Hospital
+RC3,S,--,London,Ealing Hospital,1,3,2,0,3,1,0,0,2,1,0,0,1,Ealing Hospital
+RWH,L,--,East of England,East & North Hertfordshire,2,1,0,0,1,0,1,1,2,1,2,0,1,East & North Hertfordshire
+,,,,,,,,,,,,,,,,,,
+RJN,S,--,North West,East Cheshire,1,0,0,0,0,1,2,0,1,1,2,1,1,East Cheshire
+RVV,L,FT,South East,East Kent Hospitals University,3,1,2,1,2,1,3,0,0,2,0,2,1,East Kent Hospitals University
+RXR,L,--,North West,East Lancashire Hospitals,4,1,3,4,1,1,3,2,1,1,0,1,0,East Lancashire Hospitals
+RXC,L,--,South East,East Sussex Hospitals,1,2,0,0,0,3,1,2,0,0,0,0,0,East Sussex Hospitals
+RVR,L,--,London,Epsom & St Helier University Hospitals,1,6,0,2,1,4,3,2,2,3,4,2,2,Epsom & St Helier University Hospitals
+,,,,,,,,,,,,,,,,,,
+RDU,M,FT,South East,Frimley Park Hospital,0,1,1,3,0,1,0,0,1,0,2,1,0,Frimley Park Hospital
+RR7,M,FT,North East,Gateshead Health,0,0,1,0,1,1,0,0,1,2,0,0,2,Gateshead Health
+RLT,S,--,West Midlands,George Eliot Hospital,0,1,2,0,1,0,0,0,0,0,1,0,0,George Eliot Hospital
+RTE,L,FT,South West,Gloucestershire Hospitals,1,1,0,1,0,3,3,2,1,1,0,3,2,Gloucestershire Hospitals
+RP4,Sp(c),--,London,Great Ormond Street Hospital for Children,1,0,0,0,0,0,1,0,0,0,0,0,0,Great Ormond Street Hospital for Children
+,,,,,,,,,,,,,,,,,,
+RN3,M,FT,South West,Great Western Hospitals,2,1,1,1,0,0,1,2,1,0,0,0,1,Great Western Hospitals
+RJ1,T,FT,London,Guy's & St. Thomas',1,3,2,1,2,0,0,2,0,4,0,1,1,Guy's & St. Thomas'
+RCD,S,FT,Yorkshire & the Humber,Harrogate & District,2,0,0,0,1,2,0,3,1,1,1,0,0,Harrogate & District
+RR1,L,FT,West Midlands,Heart of England,1,3,1,2,4,1,3,4,2,5,0,1,2,Heart of England
+RD7,M,FT,South East,Heatherwood & Wexham Park Hospitals,0,0,0,0,2,1,0,0,1,1,0,1,0,Heatherwood & Wexham Park Hospitals
+,,,,,,,,,,,,,,,,,,
+RLQ,S,--,West Midlands,Hereford Hospitals,1,0,0,0,0,0,0,1,0,1,0,1,0,Hereford Hospitals
+RAS,M,--,London,Hillingdon Hospital,1,0,0,0,2,2,1,2,1,0,0,1,1,Hillingdon Hospital
+RQQ,S,--,East of England,Hinchingbrooke Healthcare,0,2,2,1,0,0,1,0,1,2,1,1,0,Hinchingbrooke Healthcare
+RQX,S,FT,London,Homerton University Hospital,2,0,0,1,0,1,1,0,1,0,3,2,0,Homerton University Hospital
+RWA,L,--,Yorkshire & the Humber,Hull & East Yorkshire Hospitals,5,4,2,4,1,0,2,2,3,1,3,2,3,Hull & East Yorkshire Hospitals
+,,,,,,,,,,,,,,,,,,
+RYJ,T,--,London,Imperial College Healthcare,5,2,3,3,2,4,2,5,0,7,5,2,2,Imperial College Healthcare
+RGQ,M,--,East of England,Ipswich Hospital,0,0,1,2,0,0,0,0,0,2,0,1,0,Ipswich Hospital
+RR2,S,--,South East,Isle of Wight Healthcare,2,0,0,0,0,0,0,0,0,0,1,1,1,Isle of Wight Healthcare
+RGP,M,FT,East of England,James Paget University Hospitals,1,2,0,0,0,0,1,0,0,0,1,3,0,James Paget University Hospitals
+RNQ,S,FT,East Midlands,Kettering General Hospital,2,0,0,1,1,0,1,1,0,2,0,0,0,Kettering General Hospital
+,,,,,,,,,,,,,,,,,,
+RJZ,T,FT,London,King's College Hospital,3,3,4,0,5,1,3,3,2,1,3,0,1,King's College Hospital
+RAX,M,--,London,Kingston Hospital,0,0,3,1,4,0,0,1,0,1,3,0,1,Kingston Hospital
+RXN,L,FT,North West,Lancashire Teaching Hospitals,3,0,0,3,0,2,0,2,1,0,4,1,1,Lancashire Teaching Hospitals
+RR8,T,--,Yorkshire & the Humber,Leeds Teaching Hospitals,9,8,3,6,7,1,5,7,4,3,5,1,5,Leeds Teaching Hospitals
+RBQ,Sp,FT,North West,Liverpool Heart & Chest Hospital,0,0,0,0,0,0,0,1,0,0,0,0,0,Liverpool Heart & Chest Hospital
+,,,,,,,,,,,,,,,,,,
+REP,Sp,FT,North West,Liverpool Women's,0,0,0,0,1,1,0,0,0,0,0,0,0,Liverpool Women's
+RC9,M,FT,East of England,Luton & Dunstable Hospital,0,2,0,0,3,0,0,1,0,0,0,1,0,Luton & Dunstable Hospital
+RWF,L,--,South East,Maidstone & Tunbridge Wells,1,0,1,2,2,1,1,3,3,2,3,2,3,Maidstone & Tunbridge Wells
+RJ6,M,--,London,Mayday Healthcare,1,2,0,1,1,1,2,1,0,0,0,1,1,Mayday Healthcare
+RPA,M,FT,South East,Medway,2,0,1,0,1,1,2,2,2,0,0,1,0,Medway
+,,,,,,,,,,,,,,,,,,
+RBT,S,FT,North West,Mid Cheshire Hospitals,3,0,0,1,1,1,1,0,0,0,1,2,1,Mid Cheshire Hospitals
+RQ8,M,--,East of England,Mid Essex Hospital Services,1,2,0,1,0,0,0,0,1,0,0,0,0,Mid Essex Hospital Services
+RJD,S,FT,West Midlands,Mid Staffordshire,2,1,0,1,0,0,0,0,0,0,1,0,0,Mid Staffordshire
+RXF,L,--,Yorkshire & the Humber,Mid Yorkshire Hospitals,6,3,1,4,2,1,1,1,2,2,8,3,4,Mid Yorkshire Hospitals
+RD8,S,FT,South East,Milton Keynes Hospital,1,0,0,1,0,0,0,0,0,0,0,1,1,Milton Keynes Hospital
+,,,,,,,,,,,,,,,,,,
+RP6,Sp,FT,London,Moorfields Eye Hospital,0,0,0,0,0,0,0,0,0,0,0,0,0,Moorfields Eye Hospital
+RNH,M,--,London,Newham University Hospital,1,2,0,0,1,0,0,3,2,0,1,0,1,Newham University Hospital
+RM1,L,FT,East of England,Norfolk & Norwich University Hospitals,2,1,2,4,2,1,1,3,1,2,1,2,0,Norfolk & Norwich University Hospitals
+RVJ,L,--,South West,North Bristol,1,4,1,4,4,6,3,2,3,2,3,0,3,North Bristol
+RNL,M,--,North West,North Cumbria University Hospitals,3,2,0,1,0,1,0,2,0,0,0,2,2,North Cumbria University Hospitals
+,,,,,,,,,,,,,,,,,,
+RAP,M,--,London,North Middlesex University Hospital,4,0,1,0,1,2,1,0,1,3,1,0,2,North Middlesex University Hospital
+RVW,M,FT,North East,North Tees & Hartlepool,0,0,4,1,0,1,3,0,0,1,1,0,0,North Tees & Hartlepool
+RV8,L,--,London,North West London Hospitals,1,2,0,1,2,0,3,1,0,1,3,3,0,North West London Hospitals
+RNS,M,--,East Midlands,Northampton General Hospital,3,0,0,1,3,1,2,0,1,0,1,0,0,Northampton General Hospital
+RBZ,S,--,South West,Northern Devon Healthcare,2,0,0,0,0,1,1,0,0,0,1,1,0,Northern Devon Healthcare
+,,,,,,,,,,,,,,,,,,
+RJL,L,FT,Yorkshire & the Humber,Northern Lincolnshire & Goole Hospitals,1,0,2,1,0,3,0,1,1,2,0,3,3,Northern Lincolnshire & Goole Hospitals
+RTF,L,FT,North East,Northumbria Healthcare,1,1,1,0,2,0,0,3,0,0,1,1,2,Northumbria Healthcare
+RX1,T,--,East Midlands,Nottingham University Hospitals,5,5,9,6,1,0,2,3,3,4,1,4,2,Nottingham University Hospitals
+RBF,Sp,--,South East,Nuffield Orthopaedic Centre,0,0,0,0,0,0,0,0,0,0,0,0,0,Nuffield Orthopaedic Centre
+RTH,T,--,South East,Oxford Radcliffe Hospitals,3,2,2,3,5,4,3,2,3,2,4,1,1,Oxford Radcliffe Hospitals
+,,,,,,,,,,,,,,,,,,
+RGM,Sp,FT,East of England,Papworth Hospital,0,0,1,0,0,0,1,0,0,0,0,0,0,Papworth Hospital
+RW6,L,--,North West,Pennine Acute Hospitals,2,3,1,4,4,1,3,3,1,3,4,3,6,Pennine Acute Hospitals
+RGN,M,FT,East of England,Peterborough & Stamford Hospitals,2,0,3,0,0,0,1,1,1,0,1,0,1,Peterborough & Stamford Hospitals
+RK9,T,--,South West,Plymouth Hospitals,3,1,2,1,1,3,1,2,0,1,1,1,2,Plymouth Hospitals
+RD3,M,FT,South West,Poole Hospital,0,1,0,0,0,0,0,0,1,1,0,0,0,Poole Hospital
+,,,,,,,,,,,,,,,,,,
+RHU,L,--,South East,Portsmouth Hospitals,2,2,1,1,2,3,0,2,2,1,2,0,3,Portsmouth Hospitals
+RQW,M,--,East of England,Princess Alexandra Hospital,1,0,0,0,0,0,0,1,0,0,0,1,2,Princess Alexandra Hospital
+RPC,Sp,FT,South East,Queen Victoria Hospital,0,0,0,1,0,0,0,0,0,0,0,0,0,Queen Victoria Hospital
+RL1,Sp,--,West Midlands,Robert Jones & Agnes Hunt Orthopaedic & District Hospital,0,0,0,0,0,0,0,0,0,0,0,0,0,Robert Jones & Agnes Hunt Orthopaedic & District Hospital
+RHW,L,FT,South East,Royal Berkshire,0,1,0,0,1,0,2,0,1,0,1,0,2,Royal Berkshire
+,,,,,,,,,,,,,,,,,,
+RMC,M,FT,North West,Royal Bolton Hospital,0,3,0,1,0,0,0,2,1,0,2,1,1,Royal Bolton Hospital
+RT3,Sp,FT,London,Royal Brompton & Harefield,0,0,0,0,0,0,0,0,0,0,0,0,0,Royal Brompton & Harefield
+REF,L,--,South West,Royal Cornwall Hospitals,2,2,0,1,0,2,1,0,0,0,0,1,0,Royal Cornwall Hospitals
+RH8,L,FT,South West,Royal Devon & Exeter,1,0,3,0,0,0,0,1,0,0,1,1,1,Royal Devon & Exeter
+RAL,T,--,London,Royal Free Hampstead,2,0,0,0,0,5,2,1,2,0,0,2,2,Royal Free Hampstead
+,,,,,,,,,,,,,,,,,,
+RQ6,T,--,North West,Royal Liverpool & Broadgreen University Hospitals,3,4,2,3,0,1,1,0,3,1,0,3,0,Royal Liverpool & Broadgreen University Hospitals
+RBB,Sp,FT,South West,Royal National Hospital for Rheumatic Diseases,0,0,0,0,0,0,0,0,0,0,0,0,0,Royal National Hospital for Rheumatic Diseases
+RAN,Sp,--,London,Royal National Orthopaedic Hospital,0,0,0,0,0,0,0,1,0,0,0,0,0,Royal National Orthopaedic Hospital
+RA2,M,FT,South East,Royal Surrey County Hospital,1,1,0,0,1,1,0,0,0,1,1,0,2,Royal Surrey County Hospital
+RD1,M,--,South West,Royal United Hospital Bath,3,3,2,1,1,1,2,2,1,1,3,0,0,Royal United Hospital Bath
+,,,,,,,,,,,,,,,,,,
+RL4,L,--,West Midlands,Royal Wolverhampton Hospitals,0,0,2,1,0,0,0,0,0,0,0,0,0,Royal Wolverhampton Hospitals
+RM3,T,FT,North West,Salford Royal,2,1,3,2,2,2,0,1,1,1,2,3,2,Salford Royal
+RNZ,S,FT,South West,Salisbury,1,1,0,1,0,1,0,1,0,0,0,0,1,Salisbury
+RXK,L,--,West Midlands,Sandwell & West Birmingham Hospitals,2,2,1,2,1,0,1,1,2,0,1,2,1,Sandwell & West Birmingham Hospitals
+RCC,M,--,Yorkshire & the Humber,Scarborough & North East Yorkshire Health Care,1,0,0,1,0,0,1,1,1,0,1,0,0,Scarborough & North East Yorkshire Health Care
+,,,,,,,,,,,,,,,,,,
+RCU,Sp(c),FT,Yorkshire & the Humber,Sheffield Children's,0,0,0,0,0,0,0,0,0,0,0,0,0,Sheffield Children's
+RHQ,T,FT,Yorkshire & the Humber,Sheffield Teaching Hospitals,4,1,1,0,3,1,3,1,2,1,2,0,1,Sheffield Teaching Hospitals
+RK5,M,FT,East Midlands,Sherwood Forest Hospitals,2,1,1,1,1,4,1,0,1,1,1,1,1,Sherwood Forest Hospitals
+RXW,L,--,West Midlands,Shrewsbury & Telford Hospital,0,1,1,0,0,3,0,1,1,2,0,2,0,Shrewsbury & Telford Hospital
+RA9,M,FT,South West,South Devon Healthcare,1,0,1,1,2,1,0,0,0,0,1,0,0,South Devon Healthcare
+,,,,,,,,,,,,,,,,,,
+RYQ,L,--,London,South London Healthcare,0,1,1,2,1,1,3,1,1,2,2,0,1,South London Healthcare
+RTR,L,FT,North East,South Tees Hospitals,0,0,0,0,1,1,0,1,0,3,3,1,3,South Tees Hospitals
+RE9,S,FT,North East,South Tyneside,0,0,0,0,0,0,0,0,0,0,0,0,2,South Tyneside
+RJC,S,--,West Midlands,South Warwickshire General Hospitals,2,1,0,1,1,0,0,1,0,0,0,1,0,South Warwickshire General Hospitals
+RHM,T,--,South East,Southampton University Hospitals,1,1,0,1,0,0,0,0,1,2,2,0,0,Southampton University Hospitals
+,,,,,,,,,,,,,,,,,,
+RAJ,M,FT,East of England,Southend University Hospital,1,0,1,0,1,0,0,0,0,0,2,1,0,Southend University Hospital
+RVY,M,--,North West,Southport & Ormskirk Hospital,1,1,1,2,1,0,1,1,2,1,2,0,0,Southport & Ormskirk Hospital
+RBN,M,--,North West,St Helens & Knowsley Hospitals,0,1,1,2,1,1,1,1,0,2,0,2,0,St Helens & Knowsley Hospitals
+RJ7,T,--,London,St. George's Healthcare,1,2,0,1,4,0,3,2,2,0,1,2,0,St. George's Healthcare
+RWJ,M,FT,North West,Stockport,2,0,2,1,0,0,0,0,0,0,2,1,0,Stockport
+,,,,,,,,,,,,,,,,,,
+RTP,M,--,South East,Surrey & Sussex Healthcare,2,2,3,0,1,1,1,0,3,0,1,3,2,Surrey & Sussex Healthcare
+RMP,S,FT,North West,Tameside Hospital,1,2,2,1,0,0,1,0,0,4,3,0,3,Tameside Hospital
+RBA,M,FT,South West,Taunton & Somerset,0,0,1,0,1,0,1,0,0,2,0,3,0,Taunton & Somerset
+RNA,M,FT,West Midlands,The Dudley Group of Hospitals,1,3,1,1,1,0,1,0,1,0,1,0,1,The Dudley Group of Hospitals
+RJ2,M,--,London,The Lewisham Hospital,1,0,1,0,0,1,1,0,2,0,1,1,2,The Lewisham Hospital
+,,,,,,,,,,,,,,,,,,
+RTD,T,FT,North East,The Newcastle upon Tyne Hospitals,3,1,3,0,2,0,1,0,2,2,1,0,0,The Newcastle upon Tyne Hospitals
+RCX,S,--,East of England,The Queen Elizabeth Hospital King's Lynn,2,0,0,1,0,0,0,1,0,2,1,1,0,The Queen Elizabeth Hospital King's Lynn
+RFR,M,FT,Yorkshire & the Humber,The Rotherham,0,0,0,0,0,1,2,2,0,2,0,0,2,The Rotherham
+RDZ,M,FT,South West,The Royal Bournemouth & Christchurch Hospitals,3,2,1,0,0,0,0,1,0,0,0,0,0,The Royal Bournemouth & Christchurch Hospitals
+RPY,Sp,FT,London,The Royal Marsden,0,1,0,0,0,0,0,0,0,0,0,0,0,The Royal Marsden
+,,,,,,,,,,,,,,,,,,
+RRJ,Sp,FT,West Midlands,The Royal Orthopaedic Hospital,0,0,0,0,0,0,0,0,0,0,0,0,0,The Royal Orthopaedic Hospital
+RET,Sp,FT,North West,The Walton Centre for Neurology & Neurosurgery,1,0,1,0,0,0,0,0,0,1,0,0,0,The Walton Centre for Neurology & Neurosurgery
+RKE,M,--,London,The Whittington Hospital,2,4,0,0,0,0,0,0,1,0,3,0,0,The Whittington Hospital
+RM4,S,--,North West,Trafford Healthcare,2,1,0,0,0,0,0,0,0,0,0,0,0,Trafford Healthcare
+RWD,L,--,East Midlands,United Lincolnshire Hospitals,0,4,0,4,0,1,2,2,2,2,3,1,2,United Lincolnshire Hospitals
+,,,,,,,,,,,,,,,,,,
+RRV,T,FT,London,University College London Hospitals,2,3,1,3,1,2,2,2,1,1,2,4,5,University College London Hospitals
+RRK,T,FT,West Midlands,University Hospital Birmingham,7,1,1,3,2,1,1,1,0,1,2,1,0,University Hospital Birmingham
+RJE,L,--,West Midlands,University Hospital of North Staffordshire,3,7,1,0,1,2,2,2,2,1,4,3,2,University Hospital of North Staffordshire
+RM2,T,FT,North West,University Hospital of South Manchester,1,2,2,2,4,2,2,1,0,1,0,0,2,University Hospital of South Manchester
+RA7,T,FT,South West,University Hospitals Bristol,2,0,0,3,2,3,0,0,3,1,1,1,1,University Hospitals Bristol
+,,,,,,,,,,,,,,,,,,
+RKB,T,--,West Midlands,University Hospitals Coventry & Warwickshire,1,1,1,2,0,0,2,2,0,2,1,0,0,University Hospitals Coventry & Warwickshire
+RWE,T,--,East Midlands,University Hospitals of Leicester,2,1,1,3,2,1,0,0,0,4,2,4,1,University Hospitals of Leicester
+RTX,L,--,North West,University Hospitals of Morecambe Bay,1,2,1,2,0,0,3,0,1,1,0,1,1,University Hospitals of Morecambe Bay
+RBK,M,--,West Midlands,Walsall Hospitals,2,0,0,0,1,0,1,0,1,2,1,0,0,Walsall Hospitals
+RWW,M,FT,North West,Warrington & Halton Hospitals,0,0,0,2,1,1,1,0,0,1,1,0,1,Warrington & Halton Hospitals
+,,,,,,,,,,,,,,,,,,
+RWG,L,--,East of England,West Hertfordshire Hospitals,2,0,2,0,0,0,2,0,0,2,0,0,1,West Hertfordshire Hospitals
+RFW,S,--,London,West Middlesex University Hospital,1,2,2,1,0,2,0,1,1,3,1,0,3,West Middlesex University Hospital
+RGR,S,--,East of England,West Suffolk Hospitals,2,0,0,1,1,0,1,1,1,1,2,0,1,West Suffolk Hospitals
+RYR,M,--,South East,Western Sussex Hospitals,2,4,3,1,1,3,1,0,1,2,2,1,1,Western Sussex Hospitals
+RA3,S,--,South West,Weston Area Health,2,1,0,0,0,1,1,0,0,1,1,2,1,Weston Area Health
+,,,,,,,,,,,,,,,,,,
+RGC,M,--,London,Whipps Cross University Hospital,1,0,0,1,0,0,0,0,0,0,1,0,0,Whipps Cross University Hospital
+RN1,S,--,South East,Winchester & Eastleigh Healthcare,0,2,1,0,0,0,0,0,0,0,1,1,1,Winchester & Eastleigh Healthcare
+RBL,L,FT,North West,Wirral University Teaching Hospital,0,0,3,1,3,1,0,2,0,2,1,2,2,Wirral University Teaching Hospital
+RWP,L,--,West Midlands,Worcestershire Acute Hospitals,0,3,1,1,0,1,1,0,0,0,0,1,0,Worcestershire Acute Hospitals
+RRF,L,FT,North West,"Wrightington, Wigan & Leigh",0,0,0,0,2,0,0,0,1,0,1,1,0,"Wrightington, Wigan & Leigh"
+,,,,,,,,,,,,,,,,,,
+RA4,S,FT,South West,Yeovil District Hospital,0,0,0,2,0,1,0,0,0,2,0,0,0,Yeovil District Hospital
+RCB,M,FT,Yorkshire & the Humber,York Hospitals,3,0,0,1,0,0,1,0,1,3,0,4,1,York Hospitals
+,,,,,,,,,,,,,,,,,,

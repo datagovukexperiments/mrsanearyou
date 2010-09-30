@@ -1,0 +1,370 @@
+DATASET_TITLE,National Statistics 2001 Area Classification of Local Authorities: Distance from Centroids,,,,,,FROM,6/1/01,6/1/01,6/1/01,6/1/01,6/1/01,6/1/01
+AREA_TYPE,Local Authority,,,,,,TO,6/1/01,6/1/01,6/1/01,6/1/01,6/1/01,6/1/01
+GEO_HIERARCHY,NeSS Geography Hierarchy,,,,,,HEADING,Supergroup,Euclidean Distance from Supergroup Centroid,Group,Euclidean Distance from Group Centroid,Subgroup,Euclidean Distance from Subgroup Centroid
+,,,,,,,MEASUREMENT_UNIT,Classification,Euclidean Distance,Classification,Euclidean Distance,Classification,Euclidean Distance
+,,,,,,,STATISTICAL_UNIT,Areas,Distance,Areas,Distance,Areas,Distance
+GOR_CODE,GOR_NAME,CTY_CODE,CTY_NAME,LA_CODE,LA_NAME,AREA_METADATA,,DATA_VALUE,DATA_VALUE,DATA_VALUE,DATA_VALUE,DATA_VALUE,DATA_VALUE
+A,North East,,,00CH,Gateshead,,,7,2.66,7.11,1.64,7.11.20,2.27
+A,North East,,,00CJ,Newcastle upon Tyne,,,1,3.92,1.1,2.72,1.1.1,2.72
+A,North East,,,00CK,North Tyneside,,,7,2.85,7.11,1.86,7.11.21,2.05
+A,North East,,,00CL,South Tyneside,,,7,4.27,7.11,2.48,7.11.20,2.92
+A,North East,,,00CM,Sunderland,,,7,1.7,7.11,1.12,7.11.20,1.28
+A,North East,,,00EB,Hartlepool,,,7,2.26,7.11,1.66,7.11.20,1.17
+A,North East,,,00EC,Middlesbrough,,,7,5.13,7.11,4.38,7.11.20,3.72
+A,North East,,,00EE,Redcar and Cleveland,,,7,1.44,7.11,1.75,7.11.20,1.54
+A,North East,,,00EF,Stockton-on-Tees,,,7,1.31,7.12,1.42,7.12.22,1.47
+A,North East,,,00EH,Darlington,,,7,1.59,7.11,1.86,7.11.20,1.97
+A,North East,20,Durham,20UB,Chester-le-Street,,,7,1.68,7.12,2.06,7.12.22,1.84
+A,North East,20,Durham,20UD,Derwentside,,,7,2.1,7.11,1.65,7.11.20,1.35
+A,North East,20,Durham,20UE,Durham,,,5,8.69,5.7,8.1,5.7.12,5.12
+A,North East,20,Durham,20UF,Easington,,,7,4.34,7.11,3.6,7.11.20,2.91
+A,North East,20,Durham,20UG,Sedgefield,,,7,2.65,7.11,2.38,7.11.20,2.19
+A,North East,20,Durham,20UH,Teesdale,,,6,4.12,6.10,4.12,6.10.17,3.34
+A,North East,20,Durham,20UJ,Wear Valley,,,7,3.04,7.11,2.66,7.11.20,2.22
+A,North East,35,Northumberland,35UB,Alnwick,,,6,2.31,6.10,2.31,6.10.17,2.55
+A,North East,35,Northumberland,35UC,Berwick-upon-Tweed,,,6,4.3,6.10,4.3,6.10.17,4.04
+A,North East,35,Northumberland,35UD,Blyth Valley,,,7,0.93,7.12,1.7,7.12.22,1.36
+A,North East,35,Northumberland,35UE,Castle Morpeth,,,5,4.93,5.7,3.86,5.7.13,3.07
+A,North East,35,Northumberland,35UF,Tynedale,,,5,4.47,5.7,3.32,5.7.13,2.13
+A,North East,35,Northumberland,35UG,Wansbeck,,,7,3.03,7.11,2.03,7.11.20,2.17
+B,North West,,,00BL,Bolton,,,1,3.14,1.2,1.72,1.2.2,0.77
+B,North West,,,00BM,Bury,,,5,3.28,5.7,3.65,5.7.12,2.1
+B,North West,,,00BN,Manchester,,,1,9.81,1.2,11.94,1.2.3,5.57
+B,North West,,,00BP,Oldham,,,1,5.38,1.2,2.04,1.2.2,1.35
+B,North West,,,00BQ,Rochdale,,,1,4.58,1.2,2.18,1.2.2,1.38
+B,North West,,,00BR,Salford,,,1,3.12,1.1,2.59,1.1.1,2.59
+B,North West,,,00BS,Stockport,,,5,1.95,5.7,2.18,5.7.12,0.82
+B,North West,,,00BT,Tameside,,,7,1.86,7.11,1.98,7.11.20,2.12
+B,North West,,,00BU,Trafford,,,5,3.23,5.7,4.02,5.7.12,1.69
+B,North West,,,00BW,Wigan,,,7,1.22,7.12,1.06,7.12.22,0.89
+B,North West,,,00BX,Knowsley,,,7,7.79,7.11,6.48,7.11.20,5.67
+B,North West,,,00BY,Liverpool,,,1,9.46,1.1,8.7,1.1.1,8.7
+B,North West,,,00BZ,St. Helens,,,7,1.41,7.11,1.64,7.11.20,1.21
+B,North West,,,00CA,Sefton,,,7,4.02,7.11,3.87,7.11.20,3.96
+B,North West,,,00CB,Wirral,,,7,3.41,7.11,2.78,7.11.20,2.54
+B,North West,,,00ET,Halton,,,7,1.69,7.11,2.28,7.11.20,1.8
+B,North West,,,00EU,Warrington,,,5,2,5.7,2.08,5.7.14,1.82
+B,North West,,,00EX,Blackburn with Darwen,,,1,15.38,1.2,7.36,1.2.2,6.7
+B,North West,,,00EY,Blackpool,,,6,12.3,6.10,12.3,6.10.18,8.13
+B,North West,13,Cheshire,13UB,Chester,,,5,2.21,5.7,2.12,5.7.12,1.53
+B,North West,13,Cheshire,13UC,Congleton,,,5,1.58,5.7,1.31,5.7.14,1.22
+B,North West,13,Cheshire,13UD,Crewe and Nantwich,,,5,2.05,5.7,1.49,5.7.14,2.02
+B,North West,13,Cheshire,13UE,Ellesmere Port & Neston,,,7,1.65,7.12,1,7.12.22,0.86
+B,North West,13,Cheshire,13UG,Macclesfield,,,5,1.95,5.7,1.86,5.7.13,2.15
+B,North West,13,Cheshire,13UH,Vale Royal,,,5,1.43,5.7,1.25,5.7.14,0.93
+B,North West,16,Cumbria,16UB,Allerdale,,,6,2.28,6.10,2.28,6.10.18,3.08
+B,North West,16,Cumbria,16UC,Barrow-in-Furness,,,7,7.16,7.11,6.98,7.11.20,5.58
+B,North West,16,Cumbria,16UD,Carlisle,,,6,3.3,6.10,3.3,6.10.18,3.28
+B,North West,16,Cumbria,16UE,Copeland,,,7,3.1,7.11,3.42,7.11.20,3.51
+B,North West,16,Cumbria,16UF,Eden,,,6,5.45,6.10,5.45,6.10.17,4.36
+B,North West,16,Cumbria,16UG,South Lakeland,,,6,3.69,6.10,3.69,6.10.17,2.86
+B,North West,30,Lancashire,30UD,Burnley,,,1,7.5,1.2,4.38,1.2.2,2.14
+B,North West,30,Lancashire,30UE,Chorley,,,5,1.78,5.7,1.36,5.7.14,1.47
+B,North West,30,Lancashire,30UF,Fylde,,,6,4.28,6.10,4.28,6.10.17,4.09
+B,North West,30,Lancashire,30UG,Hyndburn,,,1,7.97,1.2,4.77,1.2.2,2.23
+B,North West,30,Lancashire,30UH,Lancaster,,,1,5.72,1.1,3.8,1.1.1,3.8
+B,North West,30,Lancashire,30UJ,Pendle,,,1,10.07,1.2,4.59,1.2.2,2.37
+B,North West,30,Lancashire,30UK,Preston,,,1,2.51,1.2,1.99,1.2.2,1.79
+B,North West,30,Lancashire,30UL,Ribble Valley,,,5,2.91,5.7,2.07,5.7.13,2.02
+B,North West,30,Lancashire,30UM,Rossendale,,,7,2.29,7.12,2.57,7.12.22,2.64
+B,North West,30,Lancashire,30UN,South Ribble,,,5,2.35,5.7,1.87,5.7.14,1.76
+B,North West,30,Lancashire,30UP,West Lancashire,,,5,2.45,5.7,1.89,5.7.12,1.94
+B,North West,30,Lancashire,30UQ,Wyre,,,6,2.16,6.10,2.16,6.10.17,2.48
+D,Yorkshire and The Humber,,,00CC,Barnsley,,,7,1.27,7.12,1.69,7.12.22,1.47
+D,Yorkshire and The Humber,,,00CE,Doncaster,,,7,2.03,7.12,1.99,7.12.22,1.73
+D,Yorkshire and The Humber,,,00CF,Rotherham,,,7,1.21,7.12,1.1,7.12.22,0.89
+D,Yorkshire and The Humber,,,00CG,Sheffield,,,1,2.12,1.1,2.87,1.1.1,2.87
+D,Yorkshire and The Humber,,,00CX,Bradford,,,1,8.4,1.2,3.2,1.2.2,3.12
+D,Yorkshire and The Humber,,,00CY,Calderdale,,,1,4.71,1.2,5.12,1.2.2,3.2
+D,Yorkshire and The Humber,,,00CZ,Kirklees,,,1,4.25,1.2,2.19,1.2.2,1.29
+D,Yorkshire and The Humber,,,00DA,Leeds,,,1,1.82,1.1,2.9,1.1.1,2.9
+D,Yorkshire and The Humber,,,00DB,Wakefield,,,7,1.58,7.12,1.55,7.12.22,1.2
+D,Yorkshire and The Humber,,,00FA,"Kingston upon Hull, City of",,,7,8.5,7.11,7.4,7.11.20,6.52
+D,Yorkshire and The Humber,,,00FB,East Riding of Yorkshire,,,5,2.05,5.7,0.98,5.7.13,0.58
+D,Yorkshire and The Humber,,,00FC,North East Lincolnshire,,,7,4.04,7.12,4.07,7.12.22,3.71
+D,Yorkshire and The Humber,,,00FD,North Lincolnshire,,,7,2.52,7.12,1.48,7.12.22,1.15
+D,Yorkshire and The Humber,,,00FF,York,,,5,4.59,5.7,4.28,5.7.12,2.56
+D,Yorkshire and The Humber,36,North Yorkshire,36UB,Craven,,,6,2.71,6.10,2.71,6.10.17,2.12
+D,Yorkshire and The Humber,36,North Yorkshire,36UC,Hambleton,,,5,3.52,5.7,2.6,5.7.13,1.44
+D,Yorkshire and The Humber,36,North Yorkshire,36UD,Harrogate,,,5,1.93,5.7,1.79,5.7.13,1.6
+D,Yorkshire and The Humber,36,North Yorkshire,36UE,Richmondshire,,,5,5.63,5.7,5.65,5.7.13,4.85
+D,Yorkshire and The Humber,36,North Yorkshire,36UF,Ryedale,,,6,3.81,6.10,3.81,6.10.17,2.51
+D,Yorkshire and The Humber,36,North Yorkshire,36UG,Scarborough,,,6,2.51,6.10,2.51,6.10.18,1.38
+D,Yorkshire and The Humber,36,North Yorkshire,36UH,Selby,,,5,1.88,5.7,1.59,5.7.14,0.92
+E,East Midlands,,,00FK,Derby,,,1,1.97,1.2,1.93,1.2.2,2.29
+E,East Midlands,,,00FN,Leicester,,,1,17.69,1.2,10.88,1.2.3,8.4
+E,East Midlands,,,00FP,Rutland,,,5,2.72,5.7,2.41,5.7.13,1.98
+E,East Midlands,,,00FY,Nottingham,,,1,6.17,1.2,8.78,1.2.3,4.59
+E,East Midlands,17,Derbyshire,17UB,Amber Valley,,,7,3.29,7.12,2.1,7.12.22,1.69
+E,East Midlands,17,Derbyshire,17UC,Bolsover,,,7,2.35,7.12,2.04,7.12.22,1.65
+E,East Midlands,17,Derbyshire,17UD,Chesterfield,,,7,2.13,7.12,2.95,7.12.22,2.33
+E,East Midlands,17,Derbyshire,17UF,Derbyshire Dales,,,5,4.19,5.7,2.81,5.7.13,1.52
+E,East Midlands,17,Derbyshire,17UG,Erewash,,,7,2.19,7.12,1.19,7.12.22,0.9
+E,East Midlands,17,Derbyshire,17UH,High Peak,,,5,2.14,5.7,1.84,5.7.14,2.19
+E,East Midlands,17,Derbyshire,17UJ,North East Derbyshire,,,7,4.12,7.12,3.27,7.12.22,2.77
+E,East Midlands,17,Derbyshire,17UK,South Derbyshire,,,5,2.04,5.7,1.72,5.7.14,0.89
+E,East Midlands,31,Leicestershire,31UB,Blaby,,,5,3.34,5.7,3.31,5.7.14,2.09
+E,East Midlands,31,Leicestershire,31UC,Charnwood,,,5,3.37,5.7,3.39,5.7.12,2.59
+E,East Midlands,31,Leicestershire,31UD,Harborough,,,5,2.29,5.7,2.19,5.7.14,1.58
+E,East Midlands,31,Leicestershire,31UE,Hinckley and Bosworth,,,5,2.27,5.7,1.76,5.7.14,1.05
+E,East Midlands,31,Leicestershire,31UG,Melton,,,5,1.77,5.7,1.38,5.7.14,1.02
+E,East Midlands,31,Leicestershire,31UH,North West Leicestershire,,,5,1.9,5.7,1.54,5.7.14,0.87
+E,East Midlands,31,Leicestershire,31UJ,Oadby and Wigston,,,5,6.33,5.7,6.53,5.7.12,4.86
+E,East Midlands,32,Lincolnshire,32UB,Boston,,,5,8.16,5.7,6.6,5.7.13,5.82
+E,East Midlands,32,Lincolnshire,32UC,East Lindsey,,,6,2.5,6.10,2.5,6.10.17,2.11
+E,East Midlands,32,Lincolnshire,32UD,Lincoln,,,1,4.02,1.1,3.66,1.1.1,3.66
+E,East Midlands,32,Lincolnshire,32UE,North Kesteven,,,5,2,5.7,1.3,5.7.13,1.06
+E,East Midlands,32,Lincolnshire,32UF,South Holland,,,5,8.4,5.7,7,5.7.13,5.99
+E,East Midlands,32,Lincolnshire,32UG,South Kesteven,,,5,1.06,5.7,0.8,5.7.14,0.66
+E,East Midlands,32,Lincolnshire,32UH,West Lindsey,,,5,3.44,5.7,2.28,5.7.13,1.39
+E,East Midlands,34,Northamptonshire,34UB,Corby,,,7,6.86,7.12,6.82,7.12.22,6.46
+E,East Midlands,34,Northamptonshire,34UC,Daventry,,,5,2.42,5.7,2.71,5.7.14,1.41
+E,East Midlands,34,Northamptonshire,34UD,East Northamptonshire,,,5,1.65,5.7,1.89,5.7.14,0.71
+E,East Midlands,34,Northamptonshire,34UE,Kettering,,,5,1.98,5.7,1.9,5.7.14,1.4
+E,East Midlands,34,Northamptonshire,34UF,Northampton,,,5,4.39,5.8,1.21,5.8.15,1.21
+E,East Midlands,34,Northamptonshire,34UG,South Northamptonshire,,,5,2.38,5.7,2.77,5.7.14,1.51
+E,East Midlands,34,Northamptonshire,34UH,Wellingborough,,,5,4.1,5.8,2.31,5.8.15,2.31
+E,East Midlands,37,Nottinghamshire,37UB,Ashfield,,,7,1.98,7.12,1.35,7.12.22,0.99
+E,East Midlands,37,Nottinghamshire,37UC,Bassetlaw,,,7,2.67,7.12,1.9,7.12.22,1.58
+E,East Midlands,37,Nottinghamshire,37UD,Broxtowe,,,5,1.63,5.7,1.43,5.7.12,1.08
+E,East Midlands,37,Nottinghamshire,37UE,Gedling,,,5,2.42,5.7,1.93,5.7.12,1.89
+E,East Midlands,37,Nottinghamshire,37UF,Mansfield,,,7,1.86,7.12,1.95,7.12.22,1.66
+E,East Midlands,37,Nottinghamshire,37UG,Newark and Sherwood,,,5,2.28,5.7,1.51,5.7.13,1.47
+E,East Midlands,37,Nottinghamshire,37UJ,Rushcliffe,,,5,2.31,5.7,2.46,5.7.12,2.44
+F,West Midlands,,,00CN,Birmingham,,,1,12.52,1.2,7.49,1.2.3,2.53
+F,West Midlands,,,00CQ,Coventry,,,1,2.85,1.2,2.11,1.2.2,3.23
+F,West Midlands,,,00CR,Dudley,,,7,3.26,7.12,2.63,7.12.22,2.29
+F,West Midlands,,,00CS,Sandwell,,,1,7.77,1.2,3.02,1.2.3,3.56
+F,West Midlands,,,00CT,Solihull,,,5,1.51,5.7,1.97,5.7.12,1.62
+F,West Midlands,,,00CU,Walsall,,,1,5.96,1.2,2.73,1.2.2,2.54
+F,West Midlands,,,00CW,Wolverhampton,,,1,6.18,1.2,3.12,1.2.3,2.39
+F,West Midlands,,,00GA,"Herefordshire, County of",,,5,3.29,5.7,2.17,5.7.13,1.01
+F,West Midlands,,,00GF,Telford and Wrekin,,,7,3.07,7.12,1.98,7.12.22,2.29
+F,West Midlands,,,00GL,Stoke-on-Trent,,,7,2.35,7.11,2.27,7.11.20,1.92
+F,West Midlands,39,Shropshire,39UB,Bridgnorth,,,5,3.76,5.7,2.88,5.7.13,2.05
+F,West Midlands,39,Shropshire,39UC,North Shropshire,,,5,3.46,5.7,2.48,5.7.13,1.39
+F,West Midlands,39,Shropshire,39UD,Oswestry,,,5,3.58,5.7,2.38,5.7.13,2.07
+F,West Midlands,39,Shropshire,39UE,Shrewsbury and Atcham,,,5,2.38,5.7,1.55,5.7.13,1.44
+F,West Midlands,39,Shropshire,39UF,South Shropshire,,,6,4.26,6.10,4.26,6.10.17,2.66
+F,West Midlands,41,Staffordshire,41UB,Cannock Chase,,,7,3.37,7.12,1.53,7.12.22,1.6
+F,West Midlands,41,Staffordshire,41UC,East Staffordshire,,,7,3.43,7.12,2.23,7.12.22,2.16
+F,West Midlands,41,Staffordshire,41UD,Lichfield,,,5,1.58,5.7,1.12,5.7.14,0.86
+F,West Midlands,41,Staffordshire,41UE,Newcastle-under-Lyme,,,7,2.46,7.12,2.23,7.12.22,1.74
+F,West Midlands,41,Staffordshire,41UF,South Staffordshire,,,5,2.88,5.7,2.22,5.7.14,1.82
+F,West Midlands,41,Staffordshire,41UG,Stafford,,,5,1.86,5.7,1.09,5.7.13,1.46
+F,West Midlands,41,Staffordshire,41UH,Staffordshire Moorlands,,,5,3.39,5.7,2.17,5.7.13,2.26
+F,West Midlands,41,Staffordshire,41UK,Tamworth,,,7,4.8,7.12,2.91,7.12.22,3.25
+F,West Midlands,44,Warwickshire,44UB,North Warwickshire,,,5,1.91,5.7,1.52,5.7.14,1.02
+F,West Midlands,44,Warwickshire,44UC,Nuneaton and Bedworth,,,7,2.12,7.12,1.19,7.12.22,1.04
+F,West Midlands,44,Warwickshire,44UD,Rugby,,,5,1.22,5.7,1.33,5.7.14,1.18
+F,West Midlands,44,Warwickshire,44UE,Stratford-on-Avon,,,5,2.22,5.7,1.83,5.7.13,1.44
+F,West Midlands,44,Warwickshire,44UF,Warwick,,,5,3.12,5.7,3.47,5.7.12,1.99
+F,West Midlands,47,Worcestershire,47UB,Bromsgrove,,,5,2.32,5.7,1.77,5.7.14,2.08
+F,West Midlands,47,Worcestershire,47UC,Malvern Hills,,,5,3.53,5.7,2.43,5.7.13,1.3
+F,West Midlands,47,Worcestershire,47UD,Redditch,,,7,3.63,7.12,2.28,7.12.22,2.34
+F,West Midlands,47,Worcestershire,47UE,Worcester,,,5,3.66,5.8,3.12,5.8.15,3.12
+F,West Midlands,47,Worcestershire,47UF,Wychavon,,,5,1.61,5.7,1.02,5.7.13,0.92
+F,West Midlands,47,Worcestershire,47UG,Wyre Forest,,,5,2.45,5.7,1.6,5.7.14,1.89
+G,East of England,,,00JA,Peterborough,,,5,6.08,5.8,2.34,5.8.15,2.34
+G,East of England,,,00KA,Luton,,,2,7.78,2.4,7.78,2.4.6,6.79
+G,East of England,,,00KF,Southend-on-Sea,,,1,6.19,1.1,5.3,1.1.1,5.3
+G,East of England,,,00KG,Thurrock,,,5,6.94,5.8,1.9,5.8.15,1.9
+G,East of England,09,Bedfordshire,09UC,Mid Bedfordshire,,,5,2.15,5.7,3.13,5.7.14,1.63
+G,East of England,09,Bedfordshire,09UD,Bedford,,,5,3.12,5.8,3.02,5.8.15,3.02
+G,East of England,09,Bedfordshire,09UE,South Bedfordshire,,,5,2.08,5.7,3.03,5.7.14,1.56
+G,East of England,12,Cambridgeshire,12UB,Cambridge,,,1,19.63,1.3,12.14,1.3.4,0.48
+G,East of England,12,Cambridgeshire,12UC,East Cambridgeshire,,,5,1.8,5.7,1.86,5.7.14,1.52
+G,East of England,12,Cambridgeshire,12UD,Fenland,,,5,3.51,5.7,2.9,5.7.14,2.8
+G,East of England,12,Cambridgeshire,12UE,Huntingdonshire,,,5,2.06,5.7,2.82,5.7.14,1.51
+G,East of England,12,Cambridgeshire,12UG,South Cambridgeshire,,,5,2.75,5.9,2.12,5.9.16,2.12
+G,East of England,22,Essex,22UB,Basildon,,,5,6.56,5.8,2.95,5.8.15,2.95
+G,East of England,22,Essex,22UC,Braintree,,,5,1.76,5.7,2.53,5.7.14,1.55
+G,East of England,22,Essex,22UD,Brentwood,,,5,5.74,5.9,3.93,5.9.16,3.93
+G,East of England,22,Essex,22UE,Castle Point,,,5,6.53,5.7,7.04,5.7.14,6.48
+G,East of England,22,Essex,22UF,Chelmsford,,,5,2.21,5.9,1.6,5.9.16,1.6
+G,East of England,22,Essex,22UG,Colchester,,,5,1.3,5.7,2.01,5.7.12,1.52
+G,East of England,22,Essex,22UH,Epping Forest,,,5,2.94,5.9,2.69,5.9.16,2.69
+G,East of England,22,Essex,22UJ,Harlow,,,5,9.16,5.8,3.04,5.8.15,3.04
+G,East of England,22,Essex,22UK,Maldon,,,5,2.75,5.7,3.08,5.7.14,2.48
+G,East of England,22,Essex,22UL,Rochford,,,5,5.33,5.9,5.13,5.9.16,5.13
+G,East of England,22,Essex,22UN,Tendring,,,6,3.77,6.10,3.77,6.10.17,4.07
+G,East of England,22,Essex,22UQ,Uttlesford,,,5,2.27,5.9,1.28,5.9.16,1.28
+G,East of England,26,Hertfordshire,26UB,Broxbourne,,,5,4.85,5.8,2.09,5.8.15,2.09
+G,East of England,26,Hertfordshire,26UC,Dacorum,,,5,1.75,5.9,1.72,5.9.16,1.72
+G,East of England,26,Hertfordshire,26UD,East Hertfordshire,,,5,2.36,5.9,0.83,5.9.16,0.83
+G,East of England,26,Hertfordshire,26UE,Hertsmere,,,5,2.72,5.9,1.86,5.9.16,1.86
+G,East of England,26,Hertfordshire,26UF,North Hertfordshire,,,5,1.41,5.9,1.44,5.9.16,1.44
+G,East of England,26,Hertfordshire,26UG,St Albans,,,5,4.82,5.9,1.81,5.9.16,1.81
+G,East of England,26,Hertfordshire,26UH,Stevenage,,,5,7.95,5.8,2.44,5.8.15,2.44
+G,East of England,26,Hertfordshire,26UJ,Three Rivers,,,5,2.12,5.9,1.14,5.9.16,1.14
+G,East of England,26,Hertfordshire,26UK,Watford,,,1,5.82,1.3,3.61,1.3.5,1.98
+G,East of England,26,Hertfordshire,26UL,Welwyn Hatfield,,,5,3.45,5.7,4.49,5.7.12,2.7
+G,East of England,33,Norfolk,33UB,Breckland,,,5,2.51,5.7,1.79,5.7.13,1.25
+G,East of England,33,Norfolk,33UC,Broadland,,,5,2.92,5.7,2.23,5.7.13,2.25
+G,East of England,33,Norfolk,33UD,Great Yarmouth,,,6,3.93,6.10,3.93,6.10.18,2
+G,East of England,33,Norfolk,33UE,King's Lynn and West Norfolk,,,5,3.79,5.7,2.47,5.7.13,1.39
+G,East of England,33,Norfolk,33UF,North Norfolk,,,6,1.8,6.10,1.8,6.10.17,1.02
+G,East of England,33,Norfolk,33UG,Norwich,,,1,4.78,1.1,2.41,1.1.1,2.41
+G,East of England,33,Norfolk,33UH,South Norfolk,,,5,2.45,5.7,1.7,5.7.13,1.06
+G,East of England,42,Suffolk,42UB,Babergh,,,5,1.2,5.7,0.83,5.7.13,0.61
+G,East of England,42,Suffolk,42UC,Forest Heath,,,5,8.94,5.8,8.54,5.8.15,8.54
+G,East of England,42,Suffolk,42UD,Ipswich,,,5,6.42,5.8,3.27,5.8.15,3.27
+G,East of England,42,Suffolk,42UE,Mid Suffolk,,,5,2.25,5.7,1.93,5.7.14,1.62
+G,East of England,42,Suffolk,42UF,St Edmundsbury,,,5,1.34,5.7,1.09,5.7.14,1.07
+G,East of England,42,Suffolk,42UG,Suffolk Coastal,,,5,2.58,5.7,1.91,5.7.13,1
+G,East of England,42,Suffolk,42UH,Waveney,,,6,2.34,6.10,2.34,6.10.18,1.76
+H,London,,,00AA,City of London,,,..,..,..,..,..,..
+H,London,,,00AB,Barking and Dagenham,,,1,16.84,1.2,14.61,1.2.3,8.95
+H,London,,,00AC,Barnet,,,2,4.1,2.4,4.1,2.4.6,3.89
+H,London,,,00AD,Bexley,,,5,8.02,5.8,3.91,5.8.15,3.91
+H,London,,,00AE,Brent,,,4,14.43,4.6,14.43,4.6.11,4.04
+H,London,,,00AF,Bromley,,,1,8.17,1.3,5.57,1.3.5,3.41
+H,London,,,00AG,Camden,,,3,5.42,3.5,5.42,3.5.8,5.72
+H,London,,,00AH,Croydon,,,2,6.87,2.4,6.87,2.4.7,1.29
+H,London,,,00AJ,Ealing,,,2,4.13,2.4,4.13,2.4.6,3.83
+H,London,,,00AK,Enfield,,,2,3.35,2.4,3.35,2.4.7,2.21
+H,London,,,00AL,Greenwich,,,2,10.06,2.4,10.06,2.4.7,2.82
+H,London,,,00AM,Hackney,,,4,5.19,4.6,5.19,4.6.10,4.36
+H,London,,,00AN,Hammersmith and Fulham,,,3,3.56,3.5,3.56,3.5.8,2.17
+H,London,,,00AP,Haringey,,,4,3.87,4.6,3.87,4.6.10,4.84
+H,London,,,00AQ,Harrow,,,2,7.67,2.4,7.67,2.4.6,3.8
+H,London,,,00AR,Havering,,,5,7.19,5.8,5.02,5.8.15,5.02
+H,London,,,00AS,Hillingdon,,,1,6.36,1.3,4.92,1.3.5,3.46
+H,London,,,00AT,Hounslow,,,2,5.79,2.4,5.79,2.4.6,2.29
+H,London,,,00AU,Islington,,,3,6.3,3.5,6.3,3.5.8,6.46
+H,London,,,00AW,Kensington and Chelsea,,,3,8.96,3.5,8.96,3.5.8,7.51
+H,London,,,00AX,Kingston upon Thames,,,1,8.9,1.3,1.35,1.3.5,1.75
+H,London,,,00AY,Lambeth,,,4,7.62,4.6,7.62,4.6.10,2.84
+H,London,,,00AZ,Lewisham,,,4,4.52,4.6,4.52,4.6.10,2.74
+H,London,,,00BA,Merton,,,2,4.26,2.4,4.26,2.4.6,6.38
+H,London,,,00BB,Newham,,,4,19.34,4.6,19.34,4.6.11,4.04
+H,London,,,00BC,Redbridge,,,2,3.07,2.4,3.07,2.4.6,2.62
+H,London,,,00BD,Richmond upon Thames,,,1,16.83,1.3,6.25,1.3.5,6.4
+H,London,,,00BE,Southwark,,,4,5.98,4.6,5.98,4.6.10,2.12
+H,London,,,00BF,Sutton,,,1,5.3,1.3,3.67,1.3.5,1.66
+H,London,,,00BG,Tower Hamlets,,,3,31.63,3.5,31.63,3.5.9,0
+H,London,,,00BH,Waltham Forest,,,2,11.91,2.4,11.91,2.4.7,3.22
+H,London,,,00BJ,Wandsworth,,,3,6.94,3.5,6.94,3.5.8,5.52
+H,London,,,00BK,Westminster,,,3,6.43,3.5,6.43,3.5.8,4.95
+J,South East,,,00LC,Medway,,,5,5.64,5.8,1.8,5.8.15,1.8
+J,South East,,,00MA,Bracknell Forest,,,5,5.43,5.9,3.93,5.9.16,3.93
+J,South East,,,00MB,West Berkshire,,,5,2.15,5.9,1.03,5.9.16,1.03
+J,South East,,,00MC,Reading,,,1,6.95,1.3,1.75,1.3.5,2.18
+J,South East,,,00MD,Slough,,,2,9.21,2.4,9.21,2.4.6,5.07
+J,South East,,,00ME,Windsor and Maidenhead,,,5,4.53,5.9,1.98,5.9.16,1.98
+J,South East,,,00MF,Wokingham,,,5,6.19,5.9,2.9,5.9.16,2.9
+J,South East,,,00MG,Milton Keynes,,,5,6.36,5.8,2.95,5.8.15,2.95
+J,South East,,,00ML,Brighton and Hove,,,1,8.85,1.1,5.73,1.1.1,5.73
+J,South East,,,00MR,Portsmouth,,,1,3.62,1.1,3.31,1.1.1,3.31
+J,South East,,,00MS,Southampton,,,1,3.34,1.1,2.77,1.1.1,2.77
+J,South East,,,00MW,Isle of Wight,,,6,3.19,6.10,3.19,6.10.18,1.84
+J,South East,11,Buckinghamshire,11UB,Aylesbury Vale,,,5,2.05,5.9,1.31,5.9.16,1.31
+J,South East,11,Buckinghamshire,11UC,Chiltern,,,5,4.09,5.9,1.81,5.9.16,1.81
+J,South East,11,Buckinghamshire,11UE,South Bucks,,,5,4.11,5.9,1.96,5.9.16,1.96
+J,South East,11,Buckinghamshire,11UF,Wycombe,,,5,4.03,5.9,2.51,5.9.16,2.51
+J,South East,21,East Sussex,21UC,Eastbourne,,,1,8.54,1.1,5.16,1.1.1,5.16
+J,South East,21,East Sussex,21UD,Hastings,,,1,5.99,1.1,4.38,1.1.1,4.38
+J,South East,21,East Sussex,21UF,Lewes,,,5,3.37,5.7,2.85,5.7.13,2.39
+J,South East,21,East Sussex,21UG,Rother,,,6,4.35,6.10,4.35,6.10.17,3.68
+J,South East,21,East Sussex,21UH,Wealden,,,5,3,5.7,2.65,5.7.13,1.94
+J,South East,24,Hampshire,24UB,Basingstoke and Deane,,,5,2.8,5.9,1.91,5.9.16,1.91
+J,South East,24,Hampshire,24UC,East Hampshire,,,5,1.37,5.9,0.93,5.9.16,0.93
+J,South East,24,Hampshire,24UD,Eastleigh,,,5,1.4,5.7,2.07,5.7.14,1.11
+J,South East,24,Hampshire,24UE,Fareham,,,5,1.54,5.7,1.93,5.7.14,1.46
+J,South East,24,Hampshire,24UF,Gosport,,,5,4.6,5.8,2.91,5.8.15,2.91
+J,South East,24,Hampshire,24UG,Hart,,,5,5.42,5.9,2.39,5.9.16,2.39
+J,South East,24,Hampshire,24UH,Havant,,,7,2.69,7.12,2.33,7.12.22,1.96
+J,South East,24,Hampshire,24UJ,New Forest,,,5,2.46,5.7,1.68,5.7.13,1
+J,South East,24,Hampshire,24UL,Rushmoor,,,5,4.64,5.8,2.86,5.8.15,2.86
+J,South East,24,Hampshire,24UN,Test Valley,,,5,1.24,5.9,1.22,5.9.16,1.22
+J,South East,24,Hampshire,24UP,Winchester,,,5,3.03,5.9,2.45,5.9.16,2.45
+J,South East,29,Kent,29UB,Ashford,,,5,1.11,5.7,1.44,5.7.14,1.18
+J,South East,29,Kent,29UC,Canterbury,,,5,5.2,5.7,4.68,5.7.12,3
+J,South East,29,Kent,29UD,Dartford,,,5,4.09,5.8,0.96,5.8.15,0.96
+J,South East,29,Kent,29UE,Dover,,,6,2.98,6.10,2.98,6.10.18,3
+J,South East,29,Kent,29UG,Gravesham,,,5,5.28,5.8,2.3,5.8.15,2.3
+J,South East,29,Kent,29UH,Maidstone,,,5,0.84,5.7,1.41,5.7.14,1.22
+J,South East,29,Kent,29UK,Sevenoaks,,,5,2.57,5.9,1.56,5.9.16,1.56
+J,South East,29,Kent,29UL,Shepway,,,6,2.37,6.10,2.37,6.10.18,2.5
+J,South East,29,Kent,29UM,Swale,,,7,3.22,7.12,2.19,7.12.22,2.39
+J,South East,29,Kent,29UN,Thanet,,,6,4.62,6.10,4.62,6.10.18,2.75
+J,South East,29,Kent,29UP,Tonbridge and Malling,,,5,1.78,5.9,1.75,5.9.16,1.75
+J,South East,29,Kent,29UQ,Tunbridge Wells,,,5,2.32,5.9,1.49,5.9.16,1.49
+J,South East,38,Oxfordshire,38UB,Cherwell,,,5,2.34,5.7,3.23,5.7.14,1.93
+J,South East,38,Oxfordshire,38UC,Oxford,,,1,16.89,1.3,10.84,1.3.4,0.48
+J,South East,38,Oxfordshire,38UD,South Oxfordshire,,,5,1.77,5.9,0.7,5.9.16,0.7
+J,South East,38,Oxfordshire,38UE,Vale of White Horse,,,5,1.92,5.9,1.11,5.9.16,1.11
+J,South East,38,Oxfordshire,38UF,West Oxfordshire,,,5,1.36,5.7,1.74,5.7.14,1.35
+J,South East,43,Surrey,43UB,Elmbridge,,,5,7.62,5.9,3.56,5.9.16,3.56
+J,South East,43,Surrey,43UC,Epsom and Ewell,,,5,3.8,5.9,2.04,5.9.16,2.04
+J,South East,43,Surrey,43UD,Guildford,,,5,3.49,5.9,1.7,5.9.16,1.7
+J,South East,43,Surrey,43UE,Mole Valley,,,5,3.45,5.9,1.79,5.9.16,1.79
+J,South East,43,Surrey,43UF,Reigate and Banstead,,,5,2.73,5.9,1.12,5.9.16,1.12
+J,South East,43,Surrey,43UG,Runnymede,,,5,3.98,5.9,3.3,5.9.16,3.3
+J,South East,43,Surrey,43UH,Spelthorne,,,5,2.61,5.9,2.35,5.9.16,2.35
+J,South East,43,Surrey,43UJ,Surrey Heath,,,5,4.34,5.9,1.55,5.9.16,1.55
+J,South East,43,Surrey,43UK,Tandridge,,,5,2.76,5.9,1.1,5.9.16,1.1
+J,South East,43,Surrey,43UL,Waverley,,,5,2.76,5.9,1.24,5.9.16,1.24
+J,South East,43,Surrey,43UM,Woking,,,5,4.29,5.9,1.66,5.9.16,1.66
+J,South East,45,West Sussex,45UB,Adur,,,5,4.72,5.7,4.44,5.7.12,3.95
+J,South East,45,West Sussex,45UC,Arun,,,6,3.02,6.10,3.02,6.10.17,2.91
+J,South East,45,West Sussex,45UD,Chichester,,,6,2.59,6.10,2.59,6.10.17,1.83
+J,South East,45,West Sussex,45UE,Crawley,,,5,7.53,5.8,3.2,5.8.15,3.2
+J,South East,45,West Sussex,45UF,Horsham,,,5,1.86,5.9,0.68,5.9.16,0.68
+J,South East,45,West Sussex,45UG,Mid Sussex,,,5,2.02,5.9,0.93,5.9.16,0.93
+J,South East,45,West Sussex,45UH,Worthing,,,1,7.53,1.1,5.29,1.1.1,5.29
+K,South West,,,00HA,Bath and North East Somerset,,,5,3.04,5.7,3.1,5.7.12,1.88
+K,South West,,,00HB,"Bristol, City of",,,1,2.02,1.1,2.45,1.1.1,2.45
+K,South West,,,00HC,North Somerset,,,5,1.53,5.7,1.22,5.7.13,1.37
+K,South West,,,00HD,South Gloucestershire,,,5,1.9,5.7,2.57,5.7.14,1.48
+K,South West,,,00HG,Plymouth,,,1,2.68,1.1,2.09,1.1.1,2.09
+K,South West,,,00HH,Torbay,,,6,4.51,6.10,4.51,6.10.18,2.49
+K,South West,,,00HN,Bournemouth,,,1,7.95,1.1,4.41,1.1.1,4.41
+K,South West,,,00HP,Poole,,,5,2.37,5.7,2.22,5.7.12,2.12
+K,South West,,,00HX,Swindon,,,5,3.89,5.8,1.74,5.8.15,1.74
+K,South West,15,Cornwall and Isles of Scilly,15UB,Caradon,,,6,1.24,6.10,1.24,6.10.17,1.31
+K,South West,15,Cornwall and Isles of Scilly,15UC,Carrick,,,6,2.03,6.10,2.03,6.10.18,1.45
+K,South West,15,Cornwall and Isles of Scilly,15UD,Kerrier,,,6,2.28,6.10,2.28,6.10.18,1.51
+K,South West,15,Cornwall and Isles of Scilly,15UE,North Cornwall,,,6,2.28,6.10,2.28,6.10.17,2.15
+K,South West,15,Cornwall and Isles of Scilly,15UF,Penwith,,,6,8.09,6.10,8.09,6.10.18,5.86
+K,South West,15,Cornwall and Isles of Scilly,15UG,Restormel,,,6,4.52,6.10,4.52,6.10.18,3.6
+K,South West,15,Cornwall and Isles of Scilly,15UH,Isles of Scilly,,,..,..,..,..,..,..
+K,South West,18,Devon,18UB,East Devon,,,6,2.29,6.10,2.29,6.10.17,1.13
+K,South West,18,Devon,18UC,Exeter,,,1,5.24,1.1,3.19,1.1.1,3.19
+K,South West,18,Devon,18UD,Mid Devon,,,5,4.25,5.7,3.25,5.7.13,2.01
+K,South West,18,Devon,18UE,North Devon,,,6,1.53,6.10,1.53,6.10.17,1.76
+K,South West,18,Devon,18UG,South Hams,,,6,1.61,6.10,1.61,6.10.17,0.86
+K,South West,18,Devon,18UH,Teignbridge,,,6,1.41,6.10,1.41,6.10.17,1.62
+K,South West,18,Devon,18UK,Torridge,,,6,2.72,6.10,2.72,6.10.17,2.44
+K,South West,18,Devon,18UL,West Devon,,,6,2.54,6.10,2.54,6.10.17,1.51
+K,South West,19,Dorset,19UC,Christchurch,,,6,5.5,6.10,5.5,6.10.17,5.04
+K,South West,19,Dorset,19UD,East Dorset,,,5,5.15,5.7,4.19,5.7.13,3.14
+K,South West,19,Dorset,19UE,North Dorset,,,5,2.86,5.7,2.32,5.7.13,1.38
+K,South West,19,Dorset,19UG,Purbeck,,,6,1.98,6.10,1.98,6.10.17,1.72
+K,South West,19,Dorset,19UH,West Dorset,,,6,1.67,6.10,1.67,6.10.17,0.71
+K,South West,19,Dorset,19UJ,Weymouth and Portland,,,6,2.89,6.10,2.89,6.10.18,1.8
+K,South West,23,Gloucestershire,23UB,Cheltenham,,,5,5.1,5.7,5.62,5.7.12,3.18
+K,South West,23,Gloucestershire,23UC,Cotswold,,,5,3.55,5.7,3.12,5.7.13,1.89
+K,South West,23,Gloucestershire,23UD,Forest of Dean,,,5,2.21,5.7,1.36,5.7.13,1.23
+K,South West,23,Gloucestershire,23UE,Gloucester,,,5,4.59,5.8,1.98,5.8.15,1.98
+K,South West,23,Gloucestershire,23UF,Stroud,,,5,1.02,5.7,0.62,5.7.13,0.82
+K,South West,23,Gloucestershire,23UG,Tewkesbury,,,5,1.13,5.7,0.97,5.7.13,1.33
+K,South West,40,Somerset,40UB,Mendip,,,5,1.66,5.7,1.18,5.7.13,1.05
+K,South West,40,Somerset,40UC,Sedgemoor,,,5,2.32,5.7,1.47,5.7.13,1.25
+K,South West,40,Somerset,40UD,South Somerset,,,5,2.03,5.7,1.28,5.7.13,1.05
+K,South West,40,Somerset,40UE,Taunton Deane,,,5,3.7,5.7,2.88,5.7.13,2.54
+K,South West,40,Somerset,40UF,West Somerset,,,6,7.69,6.10,7.69,6.10.17,6.68
+K,South West,46,Wiltshire,46UB,Kennet,,,5,1.87,5.9,2.02,5.9.16,2.02
+K,South West,46,Wiltshire,46UC,North Wiltshire,,,5,1.84,5.9,1.5,5.9.16,1.5
+K,South West,46,Wiltshire,46UD,Salisbury,,,5,1.33,5.7,1.47,5.7.13,1.52
+K,South West,46,Wiltshire,46UF,West Wiltshire,,,5,0.98,5.7,0.99,5.7.14,0.89
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,

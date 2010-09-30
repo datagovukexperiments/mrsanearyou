@@ -1,0 +1,27 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+ "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+   <title>Find Methicillin-resistant Staphylococcus aureus near you!</title>
+   <link rel="stylesheet" href="/static/css/mrsa.css" type="text/css">
+</head>
+<body>
+   <div class="form">
+		<div class="container">
+			<h1>{% block title %}Find Methicillin-resistant Staphylococcus aureus near you!{% endblock %}</h1>
+			{% block formpanel %}
+			{% endblock %}
+		</div>
+	</div>
+	<div class="results">
+		<div class="container">
+			{% block results %}
+			{% endblock %}
+		</div>
+   	<div class="footer">
+		<div class="container">
+			With a very large nod and a twit-twooo to say thanks to the wonderful <a href="http://owlsnearyou.com/">Owls Near You</a> for inspiration.
+		</div>
+	</div>
+</body>
+</html>
